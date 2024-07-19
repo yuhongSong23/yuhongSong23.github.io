@@ -13,10 +13,10 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 
 # site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
-title: "MICRO24 - StableQ"
+title: "StableQ"
 description: "Quantum System Stability and Reproducibility Workshop"
 url: # site url e.g. "https://manid2.github.io"
-baseurl: "StableQ2024" # GitHub Pages
+baseurl: "StableQ2024" # GitHub Pages: repository name
 #baseurl: "" # LOCAL
 author: mani_d2
 twitter:

@@ -14,7 +14,7 @@
                         <a href="{{ owner.url }}" {% if owner.description %} title="{{ owner.description }}"
                             {% endif %}>{{ owner.owner }}</a>
                         {% else %}
-                            <strong>{{ owner.owner }}</strong>
+                            <strong>{{ owner.description }}</strong>
                         {% endif %}
                     </p>
                     <p class="m-0 font-italic">{{ owner.bio }}
@@ -22,19 +22,7 @@
                     </p>
                   <p class="m-0"><i class="fas fa-map-marker-alt"></i><span class="pl-1"><a href="{{owner.hotel}}">{{ owner.address }}</a></span>
                     </p>
-
-                  <ul class="list-inline">
-                    <li class="list-inline-item">Source: </li>
-                    {% for so_link in social.social %}
-                    <li class="list-inline-item">
-                        {% if so_link.url %}
-                        <a href="{{ so_link.url }}"><i class="{{ so_link.icon }}"></i>{{ so_link.label }}</a>
-                        {% else %}
-                        <strong>{{ so_link.label }}</strong>
-                        {% endif %}
-                    </li>
-                  {% endfor %}
-                  </ul>
+                  <p><i class="fas fa-clock"></i> {{owner.time}}</p>
                 </div>
 
 
