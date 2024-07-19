@@ -7,8 +7,8 @@
 # server process.
 
 # theme settings
-#theme: "lone-wolf-theme"
-remote_theme: "manid2/lone-wolf-theme"
+#theme: "lone-wolf-theme" # LOCAL
+remote_theme: "manid2/lone-wolf-theme" # GitHub Pages
 bootswatch_theme: "united" # cerulean, spacelab, united
 
 # site settings, follows the order used in jekyll-seo-tag plugin
@@ -16,7 +16,8 @@ lang: "en_US"
 title: "MICRO24 - StableQ"
 description: "Quantum System Stability and Reproducibility Workshop"
 url: # site url e.g. "https://manid2.github.io"
-baseurl: "lone-wolf-theme" # the subpath of your site, e.g. "/blog"
+baseurl: "lone-wolf-theme" # GitHub Pages
+#baseurl: "" # LOCAL
 author: mani_d2
 twitter:
   username: mani_d2 # should be site's username
