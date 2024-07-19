@@ -16,7 +16,7 @@ lang: "en_US"
 title: "MICRO24 - StableQ"
 description: "Quantum System Stability and Reproducibility Workshop"
 url: # site url e.g. "https://manid2.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
+baseurl: "lone-wolf-theme" # the subpath of your site, e.g. "/blog"
 author: mani_d2
 twitter:
   username: mani_d2 # should be site's username
