@@ -16,7 +16,7 @@ lang: "en_US"
 title: "MICRO24 - StableQ"
 description: "Quantum System Stability and Reproducibility Workshop"
 url: # site url e.g. "https://manid2.github.io"
-baseurl: "lone-wolf-theme" # GitHub Pages
+baseurl: "StableQ2024" # GitHub Pages
 #baseurl: "" # LOCAL
 author: mani_d2
 twitter:
