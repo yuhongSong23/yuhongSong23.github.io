@@ -1,39 +1,39 @@
 # header links
 header:
-  - title: "Features"
-    url: "/features/"
-    description: "List of features in the theme"
-  - title: "Source"
-    url: "/source/"
-    description: "Theme source code"
   - title: "About"
     url: "/about/"
-    description: "A little story about the theme"
+    description: "The overview of StableQ workshop"
+  - title: "Call for Papers"
+    url: "/cfp/"
+    description: "Call for Papers"
+  - title: "Program"
+    url: "/program/"
+    description: "Agenda of the StableQ"
+  - title: "Committee"
+    url: "/committee/"
+    description: "Workshop chairs and program committee"
+  - title: "Attend"
+    url: "/attend/"
+    description: "time and location of StableQ"
+
 
 # footer links
 footer:
-  - owner: "Your Name"
+  - owner: "StableQ 2024"
     url: # link if any
     description: # tool tip for your url
-    bio: "I am awesome" # short bio
-    address: # location
+    bio: "Any questions, please contact Weiwen Jiang" # short bio
+    mail: "wjiang8@gmu.edu"
+    address: "AT&T Hotel and Conference Center, Austin, TX, USA"
+    hotel: "https://meetattexas.com"
   - social:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: # github link
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: # linkedin profile link
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: # twitter profile link
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: # instagram profile link
-  - feed:
-    - label: "Sitemap"
-      icon: "fas fa-sitemap"
-      url: "/sitemap.xml"
-    - label: "RSS"
-      icon: "fas fa-fw fa-rss-square"
-      url: "/feed.xml"
+      url: "https://github.com/JQub/StableQ2024"
+#  - feed:
+#    - label: "Sitemap"
+#      icon: "fas fa-sitemap"
+#      url: "/sitemap.xml"
+#    - label: "RSS"
+#      icon: "fas fa-fw fa-rss-square"
+#      url: "/feed.xml"
