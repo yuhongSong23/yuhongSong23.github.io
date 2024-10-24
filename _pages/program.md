@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Program of StableQ"
+title: "Program of StableQ (November 3, 2024)"
 permalink: /program/
 ---
 
