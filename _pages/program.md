@@ -62,7 +62,7 @@ permalink: /program/
 <h2> Session 1 (9:00 AM - 10:00 AM) Opening </h2>
 <div class="speakers">
     <div class="speaker" onclick="toggleBio('bio1')">
-        <img src="image/JohnGamble.jpeg" alt="John Gamble">
+        <img src="../image/JohnGamble.jpeg" alt="John Gamble">
         <br>
         <a href="javascript:void(0)">John Gamble <br> (IonQ) </a>
         <div id="bio1" class="bio">
@@ -77,7 +77,7 @@ permalink: /program/
 <h2> Session 2 (10:30 AM - 12:00 PM) </h2>
 <div class="speakers">
   <div class="speaker" onclick="toggleBio('bio2')">
-      <img src="image/Santiago.png" alt="Santiago Nuñez-Corrales">
+      <img src="../image/Santiago.png" alt="Santiago Nuñez-Corrales">
       <br>
       <a href="javascript:void(0)"> Santiago Nuñez-Corrales <br> (University of Illinois Urbana-Champaign) </a>
       <div id="bio2" class="bio">
@@ -88,7 +88,7 @@ permalink: /program/
   </div>
 
   <div class="speaker" onclick="toggleBio('bio3')">
-      <img src="image/AngLi.png" alt="Ang Li">
+      <img src="../image/AngLi.png" alt="Ang Li">
       <br>
       <a href="javascript:void(0)"> Ang Li <br> (Pacific Northwest National Laboratory) </a>
       <div id="bio3" class="bio">
@@ -100,7 +100,7 @@ Dr. Ang Li is a senior computer scientist in the Physical and Computational Scie
   </div>
 
   <div class="speaker" onclick="toggleBio('bio4')">
-      <img src="image/VipinChaudhary.png" alt="Vipin Chaudhary">
+      <img src="../image/VipinChaudhary.png" alt="Vipin Chaudhary">
       <br>
       <a href="javascript:void(0)"> Vipin Chaudhary <br> (Case Western Reserve University) </a>
       <div id="bio4" class="bio">
@@ -117,7 +117,7 @@ Dr. Ang Li is a senior computer scientist in the Physical and Computational Scie
 <h2> Session 3 (1:00 PM - 3:00 PM) </h2>
 <div class="speakers">
   <div class="speaker" onclick="toggleBio('bio5')">
-      <img src="image/FanChen.jpg" alt="Fan Chen">
+      <img src="../image/FanChen.jpg" alt="Fan Chen">
       <br>
       <a href="javascript:void(0)"> Fan Chen <br> (Indiana University Bloomington) </a>
       <div id="bio5" class="bio">
@@ -128,7 +128,7 @@ Dr. Ang Li is a senior computer scientist in the Physical and Computational Scie
   </div>
 
   <div class="speaker" onclick="toggleBio('bio6')">
-      <img src="image/JiLiu.png" alt="Ji Liu">
+      <img src="../image/JiLiu.png" alt="Ji Liu">
       <br>
       <a href="javascript:void(0)"> Ji Liu <br> (Argonne National Laboratory) </a>
       <div id="bio6" class="bio">
@@ -139,7 +139,7 @@ Dr. Ang Li is a senior computer scientist in the Physical and Computational Scie
   </div>
 
   <div class="speaker" onclick="toggleBio('bio7')">
-      <img src="image/XulongTang.png" alt="Xulong Tang">
+      <img src="../image/XulongTang.png" alt="Xulong Tang">
       <br>
       <a href="javascript:void(0)"> Xulong Tang <br> (University of Pittsburgh) </a>
       <div id="bio7" class="bio">
@@ -150,7 +150,7 @@ Dr. Ang Li is a senior computer scientist in the Physical and Computational Scie
   </div>
 
   <div class="speaker" onclick="toggleBio('bio8')">
-      <img src="image/HanruiWang.png" alt="Hanrui Wang">
+      <img src="../image/HanruiWang.png" alt="Hanrui Wang">
       <br>
       <a href="javascript:void(0)"> Hanrui Wang <br> (University of California, Los Angeles) </a>
       <div id="bio8" class="bio">
@@ -165,7 +165,7 @@ Dr. Ang Li is a senior computer scientist in the Physical and Computational Scie
 <h2> Session 4 (3:30 PM - 5:00 PM) </h2>
 <div class="speakers">
   <div class="speaker" onclick="toggleBio('bio9')">
-      <img src="image/KanadBasu.png" alt="Kanad Basu">
+      <img src="../image/KanadBasu.png" alt="Kanad Basu">
       <br>
       <a href="javascript:void(0)"> Kanad Basu <br> (University of Texas at Dallas) </a>
       <div id="bio9" class="bio">
@@ -176,7 +176,7 @@ Dr. Ang Li is a senior computer scientist in the Physical and Computational Scie
   </div>
 
   <div class="speaker" onclick="toggleBio('bio10')">
-      <img src="image/YuZhang.jpg" alt="Yu Zhang">
+      <img src="../image/YuZhang.jpg" alt="Yu Zhang">
       <br>
       <a href="javascript:void(0)"> Yu Zhang <br> (Los Alamos National Laboratory) </a>
       <div id="bio10" class="bio">
@@ -187,7 +187,7 @@ Dr. Ang Li is a senior computer scientist in the Physical and Computational Scie
   </div>
 
   <div class="speaker" onclick="toggleBio('bio11')">
-      <img src="image/EvanMcKinney.jpeg" alt="Evan McKinney">
+      <img src="../image/EvanMcKinney.jpeg" alt="Evan McKinney">
       <br>
       <a href="javascript:void(0)"> Evan McKinney <br> (University of Pittsburgh) </a>
       <div id="bio11" class="bio">
@@ -198,7 +198,7 @@ Dr. Ang Li is a senior computer scientist in the Physical and Computational Scie
   </div>
 
   <div class="speaker" onclick="toggleBio('bio12')">
-      <img src="image/FangQi.png" alt="Fang Qi">
+      <img src="../image/FangQi.png" alt="Fang Qi">
       <br>
       <a href="javascript:void(0)"> Fang Qi <br> (Tulane University) </a>
       <div id="bio12" class="bio">
