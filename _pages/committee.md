@@ -11,4 +11,4 @@ permalink: /committee/
 
 
 <h1>Program Committee</h1>
-Coming Soon...
+Yuhong Song (Georg Mason University)

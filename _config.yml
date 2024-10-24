@@ -16,8 +16,8 @@ lang: "en_US"
 title: "StableQ"
 description: "Quantum System Stability and Reproducibility Workshop"
 url: # site url e.g. "https://manid2.github.io"
-baseurl: "StableQ2024" # GitHub Pages: repository name
-#baseurl: "" # LOCAL
+#baseurl: "StableQ2024" # GitHub Pages: repository name
+baseurl: "" # LOCAL
 author: mani_d2
 twitter:
   username: mani_d2 # should be site's username
