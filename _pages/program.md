@@ -44,7 +44,7 @@ permalink: /program/
         display: flex;
         flex-direction: column; /* 垂直排列文本 */
         align-items: center; /* 水平居中 */
-        white-space: nowrap;
+        // white-space: nowrap;
     }
     .speaker img {
         width: 100%; /* 使图片宽度为容器宽度 */
