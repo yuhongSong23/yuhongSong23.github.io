@@ -47,7 +47,7 @@ permalink: /educations/
         <li>2022.12, Huaxin Scholarship, East China Normal University</li>
         <li>2022.12, Outstanding Student Leader of East China Normal University</li>
         <li>2021.12, Social Scholarship, East China Normal University</li>
-        <li>Duration 2015-2019, various honors and awards, including the National Scholarship, First-Class Scholarship for Excellent Students, Second-Class Scholarship for Excellent Students, Outstanding Student, Outstanding Student Leader, Outstanding Graduate, and multiple competition awards.</li>
+        <li>Duration 2015-2019, several honors and awards at NJAU, including the National Scholarship, First-Class Scholarship for Excellent Students, Second-Class Scholarship for Excellent Students, Outstanding Student, Outstanding Student Leader, Outstanding Graduate, and competition awards.</li>
     </ol>
 </section>
 </body>

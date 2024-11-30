@@ -37,7 +37,7 @@ permalink: /services/
     <h2>Academic Conference Organization Experience</h2>
     <ul>
         <li>Co-organizer (Program Committee) for the StableQ Workshop, 2024.</li>
-        <li>Student organizer for the Big Data and Intelligent Systems Technology Symposium, 2023.</li>
+        <li>Student organizer for the Symposium on Big Data and Intelligent Systems Technology, 2023.</li>
         <li>One of student organizers for the ESWEEK International Conference, 2022.</li>
     </ul>
 </section>

@@ -13,9 +13,11 @@ permalink: /news/
 
 <body>
     <h2>News</h2>
-    <li>2024.11.19, One paper is accepted by DATE 2025, Congratulations to Jin!</li>
-    <li>2024.11.03, StableQ 2024 workshop is successfully organized at MICRO 2024.</li>
+    <li>2024.11.20, Talk at ICCD 2024, Milan. Thanks to Longshan. </li>
+    <li>2024.11.19, One paper is accepted by DATE 2025. Congratulations to Jin!</li>
+    <li>2024.11.03, StableQ 2024 workshop is successfully organized at MICRO 2024, Austin.</li>
     <li>2024.08.01, One paper is accepted by ICCD 2024.</li>
+    <li>2024.06.20, Ph.D. graduation. </li>
     <li>2024.05, Outstanding Graduate of East China Normal University.</li>
     <li>2024.03.15, One paper is accepted by Journal of ECNU (Natural Science). Congratulations to Yongzhuo!</li>
     <li>2023.12, Huaxin Scholarship, East China Normal University.</li>
@@ -30,8 +32,11 @@ permalink: /news/
     <li>2022.12.17, One paper is accepted by JSA journal.</li>
     <li>2022.11.15, One paper is accepted by Journal of Computer Research and Development.</li>
     <li>2022.10.10—10.12, ESWEEK 2022 is successfully organized by Big Data and Intelligent Systems Team (Chair: Prof. Sha).</li>
+    <li>2022.10.09, Talk at CCF ESTC 2022, Shanghai.</li>
+    <li>2022.01.19, Talk at ASP-DAC 2022, virtual conference.</li>
     <li>2021.12, Social Scholarship, East China Normal University.</li>
     <li>2021.09.12, One paper is accepted by ASP-DAC 2022 conference.</li>
+    <li>2021.08.31, Ph.D. admission.</li>
     <li>2021.07.13, One paper is accepted by ICCAD 2021 conference. Congratulations to Panjie!</li>
     <li>2021.02.14, One paper is accepted by DAC 2021 conference.</li>
     
