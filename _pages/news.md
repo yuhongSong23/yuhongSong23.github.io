@@ -1,0 +1,38 @@
+---
+layout: page
+permalink: /news/
+---
+<style>
+    body {
+        font-size: 18px;
+    }
+    .li{
+        margin: 10px 0;
+    }
+</style>
+
+<body>
+    <h2>News</h2>
+    <li>2024.11.19, One paper is accepted by DATE 2025, Congratulations to Jin!</li>
+    <li>2024.11.03, StableQ 2024 workshop is successfully organized at MICRO 2024.</li>
+    <li>2024.08.01, One paper is accepted by ICCD 2024.</li>
+    <li>2024.05, Outstanding Graduate of East China Normal University.</li>
+    <li>2024.03.15, One paper is accepted by Journal of ECNU (Natural Science). Congratulations to Yongzhuo!</li>
+    <li>2023.12, Huaxin Scholarship, East China Normal University.</li>
+    <li>2023.12, Outstanding Student of East China Normal University.</li>
+    <li>2023.11.28, One paper is accepted by Frontiers of Computer Science journal. Congratulations to Yixuan!</li>
+    <li>2023.11.24, One paper is accepted by Quantum Information Processing journal.</li>
+    <li>2023.10.16, One paper is accepted by Quantum Information Processing journal.</li>
+    <li>2023.08.06—08.07, Symposium on Big Data and Intelligent Systems Technology is successfully organized at ECNU.</li>
+    <li>2023.07, Two project proposals are accepted by NSFC. Congratulations to Prof. Sha and Prof. Zhuge!</li>
+    <li>2022.12, Huaxin Scholarship, East China Normal University.</li>
+    <li>2022.12, Outstanding Student Leader of East China Normal University.</li>
+    <li>2022.12.17, One paper is accepted by JSA journal.</li>
+    <li>2022.11.15, One paper is accepted by Journal of Computer Research and Development.</li>
+    <li>2022.10.10—10.12, ESWEEK 2022 is successfully organized by Big Data and Intelligent Systems Team (Chair: Prof. Sha).</li>
+    <li>2021.12, Social Scholarship, East China Normal University.</li>
+    <li>2021.09.12, One paper is accepted by ASP-DAC 2022 conference.</li>
+    <li>2021.07.13, One paper is accepted by ICCAD 2021 conference. Congratulations to Panjie!</li>
+    <li>2021.02.14, One paper is accepted by DAC 2021 conference.</li>
+    
+</body>

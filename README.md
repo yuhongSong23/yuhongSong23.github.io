@@ -1,7 +1,8 @@
-1. This is the source code of StableQ2024 (MICRO2024). Code Link: https://github.com/JQub/StableQ2024
-
-2. Don't Need to modify the code in file "_config.yaml" for local jekyll test: 
-    - baseurl: "StableQ2024" # GitHub Pages: repository name
-    - baseurl: "" # LOCAL
-  
-3. Local test: bundle exec jekyll serve
+1. Local test: bundle exec jekyll serve
+1. index.html is the homepage
+1. _data to modify the layout
+1. _pages to modeliy details for each page
+1. local test bind occupy: 
+   1. lsof -i :4000 (ruby process PID)
+   1. kill -9 PID
+1. modify the _config.yml to change the site name and url, need to restart the local test

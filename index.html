@@ -1,51 +1,80 @@
 ---
 layout: default
+title: "Yuhong Song's Homepage"
 ---
 
 <style>
-    .center-bold {
-      text-align: center;
-      font-weight: bold;
-      font-size: 23px;
+    .container {
+        display: flex;
+    }
+
+    .left-column {
+        width: 30%;
+        text-align: center;
+    }
+
+    .right-column {
+        width: 70%;
+    }
+
+    .profile-photo {
+        width: 75%;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .contact-info p {
+        font-size: 18px;
+        margin: 5px 0;
+    }
+
+    .bibliography p {
+        font-size: 18px;
+        margin: 10px 0;
+        text-align: justify;
+    }
+
+    .bibliography ul {
+        font-size: 18px;
+        margin: 10px 0;
     }
 </style>
 
-<style>
-  .welcome-text {
-    text-align: center;
-    font-size: 36px;
-    color: #e95420;
-  }
-</style>
-
-
 <section>
-  <div class="container mt-2 mb-2">
-    <div class="row">
-      <div class="col">
-        <h1>StableQ 2024: Quantum System Stability and Reproducibility Workshop</h1>
-      </div>
+    <div class="container mt-2 mb-2">
+        <div class="left-column">
+            <!-- Personal Information Section -->
+            <img src="./image/YuhongSong.jpeg" alt="Your Photo" class="profile-photo">
+            <div class="contact-info">
+                <h4><strong>Yuhong Song</strong></h4>
+                <p>Postdoc, George Mason University, Fairfax 22030, United States</p>
+                <p>Email: <a href="mailto:yuhongsong23@gmail.com" style="color: #a32133">yuhongsong23@gmail.com</a></p>
+                <p>Google Scholar: <a href="https://scholar.google.com/citations?user=zcBo4EQAAAAJ&hl=zh-CN&oi=ao" target="_blank" style="color: #a32133">Google Scholar</a></p>
+            </div>
+        </div>
+
+        <div class="right-column">
+            <!-- Bibliography Section -->
+            <h2>Bibliography</h2>
+            <div class="bibliography">
+              <p>
+                I'm a postdoctoral research fellow in the Department of Electrical and Computer Engineering at George Mason University (GMU), supervised by Prof. Weiwen Jiang.
+                Before I joined GMU in September 2024, I served as a research assistant in Prof. Zili Shao's group at The Chinese University of Hong Kong (CUHK), from March to August 2024.
+                I earned my Ph.D. degree from East China Normal University (ECNU) in June 2024, under the supervision of Prof. Edwin Hsing-Mean Sha (National Thousand Talents Scholar, Changjiang Scholar, NSFC Distinguished Young Scholar).
+              </p>
+              <p>
+                My research interests include quantum computing, quantum error correction, AI accelerator and hardware-software co-design. Specially, my research focuse on error correction and fault tolerance for Noisy Intermediate-Scale Quantum (NISQ) computers, optimization eechniques for quantum circuit simulation, and hardware-software co-design for AI systems, etc.
+                So far, I have published 20 papers at the international conferences/journals such as DAC, ICCAD, TCAD, ICCD, DATE, ASP-DAC, GLSVLSI, etc.
+              </p>
+              <h5><b>Research Areas and Interests</b></h5>
+              <ul>
+                <li>Quantum Computing</li>
+                <li>Quantum Error Correction</li>
+                <li>AI Accelerator</li>
+                <li>Hardware-Software Co-design</li>
+              </ul>
+
+            </div>
+        </div>
     </div>
-
-    <p class="welcome-text"> <a href="https://forms.gle/Q7A9wqEGUUY8jKRe8"> ! Post Workshop Survey ! </a></p>
-
-    <div class="center-bold">
-      November 3, 2024 @ Austin, Texas, USA
-    </div>
-
-    <div style="text-align:center;">
-    <a href="https://meetattexas.com"><img width="800px" src="image/austin.jpg"/></a>
-    &nbsp;  &nbsp;  &nbsp;  &nbsp;
-    </div>
-
-    <br>
-    <div class="center-bold">
-      The workshop is held in conjunction with the 57th IEEE/ACM International Symposium on Microarchitecture (<a href="https://microarch.org/micro57/">MICRO2024</a>), November 2-6, 2024 @ Austin, Texas, USA
-    </div>
-
-
-    <br>
-    <br>
-    <p class="welcome-text"> Welcome to StableQ Workshop!</p>
-  </div>
 </section>

@@ -1,16 +1,31 @@
-<header class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
+<style>
+    .custom-header {
+      background-color: #a32133;
+    }
+
+    .navbar .nav-link {
+      color: white !important; /* 导航栏文字颜色设置为白色 */
+      font-size: 18px;
+    }
+
+    .navbar {
+      height: 60px; /* 设置导航栏的高度为 50px，根据需求调整 */
+    }
+</style>
+
+<header class="navbar navbar-expand-lg navbar-dark custom-header shadow-sm">
   <nav class="container">
     <!-- site home -->
     <a class="navbar-brand" href="{{ '/' | absolute_url }}">
 <!--      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo" height="32" width="32">-->
-    <h3>{{site.title}}</h3>
+    <h4>{{site.title}}</h4>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01"
       aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarColor01">
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
         <!-- TODO add theme version dropdown here -->
         {%- for link in site.data.nav.header -%}
           {%- if link.url contains '://' -%}

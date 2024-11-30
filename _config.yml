@@ -13,8 +13,8 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 
 # site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
-title: "StableQ"
-description: "Quantum System Stability and Reproducibility Workshop"
+title: "Yuhong Song's Homepage"
+description: "Yuhong Song's Personal Website"
 url: # site url e.g. "https://manid2.github.io"
 #baseurl: "StableQ2024" # GitHub Pages: repository name
 baseurl: "" # LOCAL
@@ -22,7 +22,7 @@ author: mani_d2
 twitter:
   username: mani_d2 # should be site's username
   card: summary
-logo: assets/images/lwt-logo-v2.png # PNG is SEO friendly
+logo: assets/images/logo_syh.png # PNG is SEO friendly
 # use below when there are social links for site
 #social:
 #  name: Mani Kumar
@@ -176,5 +176,5 @@ defaults:
       path: ""
     values:
       # for SEO and social sharing
-      image: assets/images/lwt-logo-wolf-v2.png
-      image_alt: Lone Wolf Theme logo version 2
+      image: assets/images/logo_syh.png
+      image_alt: Personal Logo

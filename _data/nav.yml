@@ -1,39 +1,33 @@
 # header links
 header:
-  - title: "About"
-    url: "/about/"
-    description: "Overview of StableQ workshop"
-  - title: "Archive"
-    url: "/archive/"
-    description: "Past history of StableQ workshop"
-  - title: "Call for Papers"
-    url: "/cfp/"
-    description: "Call for papers"
-  - title: "Program"
-    url: "/program/"
-    description: "Agenda of the StableQ workshop"
-  - title: "Committee"
-    url: "/committee/"
-    description: "Workshop chairs and program committee of StableQ workshop"
-  - title: "Attend"
-    url: "/attend/"
-    description: "Time and location of StableQ workshop"
+  - title: "News"
+    url: "/news/"
+    description: "News"
+  - title: "Publications"
+    url: "/publications/"
+    description: "Publications"
+  - title: "Educations"
+    url: "/educations/"
+    description: "Education and Work Experience"
+  - title: "Academic Services"
+    url: "/services/"
+    description: "Academic Services"
 
 
 # footer links
 footer:
-  - owner: "StableQ"
-    url: # link if any
-    description: "StableQ 2024"
-    bio: "Any questions, please contact Dr. Yuhong Song" # short bio
-    mail: "yuhongsong23@gmail.com"
-    address: "AT&T Hotel and Conference Center, Austin, TX, USA"
-    hotel: "https://meetattexas.com"
-    time: "November 3, 2024"
-  - social:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/JQub/StableQ2024"
+#  - owner: "Yuhong Song"
+#    url: # link if any
+#    description: "Yuhong Song's Personal Website"
+#    bio: "Any questions, please contact Dr. Yuhong Song" # short bio
+#    mail: "yuhongsong23@gmail.com"
+#    address: "AT&T Hotel and Conference Center, Austin, TX, USA"
+#    hotel: "https://meetattexas.com"
+#    time: "November 3, 2024"
+#  - social:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/JQub/StableQ2024"
 #  - feed:
 #    - label: "Sitemap"
 #      icon: "fas fa-sitemap"
