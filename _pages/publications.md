@@ -75,5 +75,7 @@ permalink: /publications/
             沙行勉, 王寒, 徐珑珊, <strong>宋玉红</strong>, 诸葛晴凤. ``ChatGPT对计算机基础教育的挑战分析与应对策略.'' <em>计算机教育</em>, Vol. 2023, NO. 11 (2023):51-54. <strong>(CCF-T2, 创刊20年20佳论文奖)</strong>
         </li>
     </ol>
+    <br>
+    <p>(Update Date: 2024-11-30)</p>
 </section>
 </body>
