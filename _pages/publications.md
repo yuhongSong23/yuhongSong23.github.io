@@ -15,7 +15,7 @@ permalink: /publications/
     <h2>Publications</h2>
     <ol>
         <li>
-            <strong>Yuhong Song</strong>, Weiwen Jiang, Bingbing Li, Panjie Qi, Qingfeng Zhuge, Edwin Hsing-Mean Sha, Sakyasingha Dasgupta, Yiyu Shi, and Caiwen Ding. ``Dancing along Battery: Enabling Transformer with Run-time Reconfigurability on Mobile Devices." <em>In 2021 58th ACM/IEEE Design Automation Conference (DAC)</em>, pp. 1003-1008. IEEE, 2021. <strong>(CCF-A, accepted rate: 22.9%)</strong>
+            <strong>Yuhong Song</strong>, Weiwen Jiang, Bingbing Li, Panjie Qi, Qingfeng Zhuge, Edwin Hsing-Mean Sha, Sakyasingha Dasgupta, Yiyu Shi, and Caiwen Ding. ``Dancing along Battery: Enabling Transformer with Run-time Reconfigurability on Mobile Devices." <em>In 2021 58th ACM/IEEE Design Automation Conference (DAC)</em>, pp. 1003-1008. IEEE, 2021. <strong>(CCF-A, Acceptance Rate: 22.9%)</strong>
         </li>
         <li>
             <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Wenlong Xiao, Qijun Dai, and Longshan Xu. ``QuanPath: Achieving One-Step Communication for Distributed Quantum Circuit Simulation.'' <em>Quantum Information Processing</em>, 2024, 23(1): 1-35. <strong>(SCI JCR Q1)</strong>
@@ -24,7 +24,7 @@ permalink: /publications/
             <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, and Han Wang. ``Efficient Algorithm for Full-State Quantum Circuit Simulation with DD Compression while Maintaining Accuracy.'' <em>Quantum Information Processing</em>, 2023, 22(11): 1-25. <strong>(SCI JCR Q1)</strong>
         </li>
         <li>
-            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Longshan Xu, and Zili Shao. ``Mera: Memory Reduction and Acceleration for Quantum Circuit Simulation via Redundancy Exploration." <em>In 2024 42nd IEEE International Conference on Computer Design (ICCD)</em>. IEEE, 2024. <strong>(CCF-B, accepted rate: 28%)</strong>
+            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Longshan Xu, and Zili Shao. ``Mera: Memory Reduction and Acceleration for Quantum Circuit Simulation via Redundancy Exploration." <em>In 2024 42nd IEEE International Conference on Computer Design (ICCD)</em>. IEEE, 2024. <strong>(CCF-B, Acceptance Rate: 28%)</strong>
         </li>
         <li>
             <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Xiaowei Xu, Bingzhe Li, and Lei Yang. ``Hardware-Aware Neural Architecture Search for Stochastic Computing-based Neural Networks on Tiny Devices." <em>Journal of Systems Architecture</em> 135 (2023): 102810. <strong>(CCF-B)</strong>
@@ -33,7 +33,7 @@ permalink: /publications/
             <strong>宋玉红</strong>, 沙行勉, 诸葛晴凤, 许瑞, 王寒. ``RR-SC: 边缘设备中基于随机计算神经网络的运行时可重配置框架.'' <em>计算机研究与发展</em>, 2024, 61(4): 840-855. <strong>(CCF-T1, 计算机三大学报之一)</strong>
         </li>
         <li>
-            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Yongzhuo Zhang, Bingzhe Li, and Lei Yang. ``BSC: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML." <em>In 2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC)</em>, pp. 314-319. IEEE, 2022. <strong>(CCF-C, accepted rate: 36.5%)</strong>
+            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Yongzhuo Zhang, Bingzhe Li, and Lei Yang. ``BSC: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML." <em>In 2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC)</em>, pp. 314-319. IEEE, 2022. <strong>(CCF-C, Acceptance Rate: 36.5%)</strong>
         </li>
         <li>
             Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. ``Ensuring Data Freshness for In-Storage Computing with Cooperative Buffer Manager.'' <em>In 2025 Design, Automation & Test in Europe Conference (DATE)</em>. IEEE, 2025. <strong>(Accepted, CCF-B)</strong>
