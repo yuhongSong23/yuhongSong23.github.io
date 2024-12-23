@@ -33,12 +33,13 @@ permalink: /services/
           <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
         </ul>
       </li>
+      <li>TPC Member of IEEE International Conference on Quantum Computing and Engineering (QCE24)</li>
     </ul>
     <h2>Academic Conference Organization Experience</h2>
     <ul>
-        <li>Co-organizer (Program Committee) for the StableQ Workshop, 2024.</li>
-        <li>Student organizer for the Symposium on Big Data and Intelligent Systems Technology, 2023.</li>
-        <li>One of student organizers for the ESWEEK International Conference, 2022.</li>
+        <li>Co-organizer (Program Committee) for the StableQ Workshop, Nov. 2024.</li>
+        <li>Student organizer for the Symposium on Big Data and Intelligent Systems Technology, Aug. 2023.</li>
+        <li>One of student organizers for the ESWEEK International Conference, Oct. 2022.</li>
     </ul>
 </section>
 </body>
