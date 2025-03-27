@@ -16,10 +16,12 @@ permalink: /news/
     <li>2024.11.20, Talk at ICCD 2024, Milan. Thanks to Longshan. </li>
     <li>2024.11.19, One paper is accepted by DATE 2025. Congratulations to Jin!</li>
     <li>2024.11.03, StableQ 2024 workshop is successfully organized at MICRO 2024, Austin.</li>
+    <li>2024.09.02, Join George Mason University (GMU) as a Postdoctoral Research Fellow.</li>
     <li>2024.08.01, One paper is accepted by ICCD 2024.</li>
     <li>2024.06.20, Ph.D. graduation. </li>
     <li>2024.05, Outstanding Graduate of East China Normal University.</li>
     <li>2024.03.15, One paper is accepted by Journal of ECNU (Natural Science). Congratulations to Yongzhuo!</li>
+    <li>2024.03.01, Join The Chinese University of Hong Kong (CUHK) as a Research Assistant.</li>
     <li>2023.12, Huaxin Scholarship, East China Normal University.</li>
     <li>2023.12, Outstanding Student of East China Normal University.</li>
     <li>2023.11.28, One paper is accepted by Frontiers of Computer Science journal. Congratulations to Yixuan!</li>
