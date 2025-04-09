@@ -32,7 +32,7 @@ permalink: /publications/
             <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Xiaowei Xu, Bingzhe Li, and Lei Yang. ``Hardware-Aware Neural Architecture Search for Stochastic Computing-based Neural Networks on Tiny Devices." <em>Journal of Systems Architecture</em> 135 (2023): 102810. <strong>(CCF-B)</strong>
         </li>
         <li>
-            <strong>宋玉红</strong>, 沙行勉, 诸葛晴凤, 许瑞, 王寒. ``RR-SC: 边缘设备中基于随机计算神经网络的运行时可重配置框架.'' <em>计算机研究与发展</em>, 2024, 61(4): 840-855. <strong>(CCF-T1, 计算机三大学报之一)</strong>
+            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, and Han Wang. ``RR-SC: Run-Time Reconfigurable Framework for Stochastic Computing-Based Neural Networks on Edge Devices.'' <em>Journal of Computer Research and Development</em>, 2024, 61(4): 840-855. <strong>(Chinese CCF-A)</strong>
         </li>
         <li>
             <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Yongzhuo Zhang, Bingzhe Li, and Lei Yang. ``BSC: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML." <em>In 2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC)</em>, pp. 314-319. IEEE, 2022. <strong>(CCF-C, Acceptance rate: 36.5%)</strong>
@@ -41,7 +41,7 @@ permalink: /publications/
             Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. ``Ensuring Data Freshness for In-Storage Computing with Cooperative Buffer Manager.'' <em>In 2025 Design, Automation & Test in Europe Conference (DATE)</em>. IEEE, 2025. <strong>(Accepted, CCF-B)</strong>
         </li>
         <li>
-            Panjie Qi, <strong>Yuhong Song</strong>, Hongwu Peng, Shaoyi Huang, Qingfeng Zhuge, and Edwin Hsing-Mean Sha. ``Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization." <em>In Proceedings of the 2021 on Great Lakes Symposium on VLSI (GLSVLSI)</em>, pp. 163-168. 2021. <strong>(CCF-C)</strong>
+            Panjie Qi, <strong>Yuhong Song</strong>, Hongwu Peng, Shaoyi Huang, Qingfeng Zhuge, and Edwin Hsing-Mean Sha. ``Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization." <em>In 2021 Great Lakes Symposium on VLSI (GLSVLSI)</em>, pp. 163-168. 2021. <strong>(CCF-C)</strong>
         </li>
         <li>
             Yixuan Du, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>, Yibo Guo, Longshan Xu, and Qingfeng Zhuge. ``MuDP: Multi-Granularity Data Placement for Uniform Loops on SPM-DRAM Architectures to Minimize Latency.'' <em>Frontiers of Computer Science</em>, 2025, 19(5): 195107. <strong>(CCF-B)</strong>
