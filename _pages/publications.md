@@ -41,6 +41,9 @@ permalink: /publications/
             Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. ``Ensuring Data Freshness for In-Storage Computing with Cooperative Buffer Manager.'' <em>In 2025 Design, Automation & Test in Europe Conference (DATE)</em>. IEEE, 2025. <strong>(Accepted, CCF-B)</strong>
         </li>
         <li>
+            Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. ``MirrorFS: Cross-Layered File System for SSD-based In-Storage Computing.'' <em>In 2025 Great Lakes Symposium on VLSI (GLSVLSI)</em>. ACM, 2025. <strong>(Accepted, CCF-C)</strong>
+        </li>
+        <li>
             Panjie Qi, <strong>Yuhong Song</strong>, Hongwu Peng, Shaoyi Huang, Qingfeng Zhuge, and Edwin Hsing-Mean Sha. ``Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization." <em>In 2021 Great Lakes Symposium on VLSI (GLSVLSI)</em>, pp. 163-168. 2021. <strong>(CCF-C)</strong>
         </li>
         <li>
@@ -78,6 +81,6 @@ permalink: /publications/
         </li>
     </ol>
     <br>
-    <p>(Update Date: 2024-11-30)</p>
+    <p>(Update Date: 2025-05-01)</p>
 </section>
 </body>

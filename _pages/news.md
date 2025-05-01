@@ -13,6 +13,7 @@ permalink: /news/
 
 <body>
     <h2>News</h2>
+    <li>2025.04.30, One paper is accepted by GLSVLSI 2025. Congratulations to Jin!</li>
     <li>2024.11.20, Talk at ICCD 2024, Milan. Thanks to Longshan. </li>
     <li>2024.11.19, One paper is accepted by DATE 2025. Congratulations to Jin!</li>
     <li>2024.11.03, StableQ 2024 workshop is successfully organized at MICRO 2024, Austin.</li>
