@@ -15,6 +15,8 @@ permalink: /services/
 <section>
     <h2>Review Experience</h2>
     <ul>
+      <li>TPC Member of IEEE/ACM International Conference On Computer Aided Design (ICCAD25)</li>
+      <li>TPC Member of IEEE International Conference on Quantum Computing and Engineering (QCE24, QCE25)</li>
       <li>Reviewed for top-tier international conferences
         <ul>
           <li>Design Automation Conference (DAC)</li>
@@ -33,7 +35,6 @@ permalink: /services/
           <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
         </ul>
       </li>
-      <li>TPC Member of IEEE International Conference on Quantum Computing and Engineering (QCE24, QCE25)</li>
     </ul>
     <h2>Academic Conference Organization Experience</h2>
     <ul>
