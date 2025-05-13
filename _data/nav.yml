@@ -6,12 +6,9 @@ header:
   - title: "Publications"
     url: "/publications/"
     description: "Publications"
-  - title: "Educations"
-    url: "/educations/"
-    description: "Education and Work Experience"
-  - title: "Academic Services"
+  - title: "Services and Awards"
     url: "/services/"
-    description: "Academic Services"
+    description: "Services and Awards"
 
 
 # footer links
