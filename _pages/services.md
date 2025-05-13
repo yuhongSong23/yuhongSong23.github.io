@@ -13,7 +13,7 @@ permalink: /services/
 
 <body>
 <section>
-    <h2>TPC and Review</h2>
+    <h2>TPC and Reviewer</h2>
     <ul>
       <li>TPC Member of IEEE/ACM International Conference On Computer Aided Design (ICCAD25)</li>
       <li>TPC Member of IEEE International Conference on Quantum Computing and Engineering (QCE24, QCE25)</li>
