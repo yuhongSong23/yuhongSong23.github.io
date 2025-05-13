@@ -11,6 +11,7 @@ permalink: /news/
     }
 </style>
 
+[comment]: <> (paper, service, award, talk)
 <body>
     <h2>News</h2>
     <li>2025.04.30, One paper is accepted by GLSVLSI 2025. Congratulations to Jin!</li>
