@@ -13,7 +13,7 @@ permalink: /services/
 
 <body>
 <section>
-    <h2>TPC and Reviewer</h2>
+    <h2>Program Committee and Reviewer</h2>
     <ul>
       <li>TPC Member of IEEE/ACM International Conference On Computer Aided Design (ICCAD25)</li>
       <li>TPC Member of IEEE International Conference on Quantum Computing and Engineering (QCE24, QCE25)</li>
@@ -38,9 +38,9 @@ permalink: /services/
     </ul>
     <h2>Academic Conference Organization</h2>
     <ul>
-        <li>Co-organizer (Program Committee) for the StableQ Workshop, Nov. 2024.</li>
-        <li>Student organizer for the Symposium on Big Data and Intelligent Systems Technology, Aug. 2023.</li>
-        <li>One of student organizers for the ESWEEK International Conference, Oct. 2022.</li>
+        <li>Nov. 2024, Co-organizer (Program Committee) for the StableQ Workshop.</li>
+        <li>Aug. 2023, Student organizer for the Symposium on Big Data and Intelligent Systems Technology.</li>
+        <li>Oct. 2022, One of student organizers for the ESWEEK International Conference.</li>
     </ul>
     <h2>Honors and Awards</h2>
     <ul>

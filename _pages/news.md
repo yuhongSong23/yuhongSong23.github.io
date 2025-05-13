@@ -14,10 +14,13 @@ permalink: /news/
 <body>
     <h2>News</h2>
     <li>2025.04.30, One paper is accepted by GLSVLSI 2025. Congratulations to Jin!</li>
+    <li>2025.04.27, Invited as TPC member at ICCAD 2025.</li>
+    <li>2025.03.17, Invited as PC member at QCE 2025.</li>
     <li>2024.11.20, Talk at ICCD 2024, Milan. Thanks to Longshan. </li>
     <li>2024.11.19, One paper is accepted by DATE 2025. Congratulations to Jin!</li>
-    <li>2024.11.03, StableQ 2024 workshop is successfully organized at MICRO 2024, Austin.</li>
+    <li>2024.11.03, StableQ 2024 workshop is successfully organized at MICRO 2024, Austin (Program Committee).</li>
     <li>2024.09.02, Join George Mason University (GMU) as a Postdoctoral Research Fellow.</li>
+    <li>2024.08.20, Invited as PC member at QCE 2024.</li>
     <li>2024.08.01, One paper is accepted by ICCD 2024.</li>
     <li>2024.06.20, Ph.D. graduation. </li>
     <li>2024.05, Outstanding Graduate of East China Normal University.</li>
