@@ -29,7 +29,7 @@ permalink: /publications/
             <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Xiaowei Xu, Bingzhe Li, and Lei Yang. ``Hardware-Aware Neural Architecture Search for Stochastic Computing-based Neural Networks on Tiny Devices." <em>Journal of Systems Architecture</em> 135 (2023): 102810. <strong>(SCI JCR Q1, CCF-B)</strong>
         </li>
         <li>
-            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Longshan Xu, and Zili Shao. ``Mera: Memory Reduction and Acceleration for Quantum Circuit Simulation via Redundancy Exploration." <em>In 2024 42nd IEEE International Conference on Computer Design (ICCD)</em>. IEEE, 2024. <strong>(CCF-B, Acceptance rate: 28%)</strong>
+            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Longshan Xu, and Zili Shao. ``Mera: Memory Reduction and Acceleration for Quantum Circuit Simulation via Redundancy Exploration." <em>In 2024 42nd IEEE International Conference on Computer Design (ICCD)</em>, pp. 525-533. IEEE, 2024. <strong>(CCF-B, Acceptance rate: 28%)</strong>
         </li>
         <li>
             <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, and Han Wang. ``RR-SC: Run-Time Reconfigurable Framework for Stochastic Computing-Based Neural Networks on Edge Devices.'' <em>Journal of Computer Research and Development</em>, 2024, 61(4): 840-855. <strong>(Chinese CCF-A)</strong>
