@@ -10,77 +10,79 @@ permalink: /publications/
         margin: 10px 0;
         text-align: justify;
     }
+    a {
+      color: #a32133;
+    }
 </style>
 
-<body>
+
 <section class="publications">
     <h2>Publications</h2>
     <ol>
         <li>
-            <strong>Yuhong Song</strong>, Weiwen Jiang, Bingbing Li, Panjie Qi, Qingfeng Zhuge, Edwin Hsing-Mean Sha, Sakyasingha Dasgupta, Yiyu Shi, and Caiwen Ding. ``Dancing along Battery: Enabling Transformer with Run-time Reconfigurability on Mobile Devices." <em>In 2021 58th ACM/IEEE Design Automation Conference (DAC)</em>, pp. 1003-1008. IEEE, 2021. <strong>(CCF-A, Acceptance rate: 22.9%)</strong>
+            <strong>Yuhong Song</strong>, Weiwen Jiang, Bingbing Li, Panjie Qi, Qingfeng Zhuge, Edwin Hsing-Mean Sha, Sakyasingha Dasgupta, Yiyu Shi, and Caiwen Ding. <a href="https://ieeexplore.ieee.org/abstract/document/9586295?casa_token=_-TgosNFim4AAAAA:oRP_KXYaTCITWTgXZtbNF7wFjhDZet1RyfqL9K632YgSohfmelf0zIYPhoaNYW5IRQ-O5rI">''Dancing along Battery: Enabling Transformer with Run-time Reconfigurability on Mobile Devices."</a> <em>In 2021 58th ACM/IEEE Design Automation Conference (DAC)</em>, pp. 1003-1008. IEEE, 2021. <strong>(CCF-A, Acceptance rate: 22.9%)</strong>
         </li>
         <li>
-            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Wenlong Xiao, Qijun Dai, and Longshan Xu. ``QuanPath: Achieving One-Step Communication for Distributed Quantum Circuit Simulation.'' <em>Quantum Information Processing</em>, 2024, 23(1): 1-35. <strong>(SCI JCR Q1)</strong>
+            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Wenlong Xiao, Qijun Dai, and Longshan Xu. <a href="https://link.springer.com/article/10.1007/s11128-023-04192-x">''QuanPath: Achieving One-Step Communication for Distributed Quantum Circuit Simulation.''</a> <em>Quantum Information Processing</em>, 2024, 23(1): 1-35. <strong>(SCI JCR Q1)</strong>
         </li>
         <li>
-            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, and Han Wang. ``Efficient Algorithm for Full-State Quantum Circuit Simulation with DD Compression while Maintaining Accuracy.'' <em>Quantum Information Processing</em>, 2023, 22(11): 1-25. <strong>(SCI JCR Q1)</strong>
+            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, and Han Wang. <a href="https://link.springer.com/article/10.1007/s11128-023-04160-5">''Efficient Algorithm for Full-State Quantum Circuit Simulation with DD Compression while Maintaining Accuracy.''</a> <em>Quantum Information Processing</em>, 2023, 22(11): 1-25. <strong>(SCI JCR Q1)</strong>
         </li>
         <li>
-            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Xiaowei Xu, Bingzhe Li, and Lei Yang. ``Hardware-Aware Neural Architecture Search for Stochastic Computing-based Neural Networks on Tiny Devices." <em>Journal of Systems Architecture</em> 135 (2023): 102810. <strong>(SCI JCR Q1, CCF-B)</strong>
+            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Xiaowei Xu, Bingzhe Li, and Lei Yang. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762122002958">''Hardware-Aware Neural Architecture Search for Stochastic Computing-based Neural Networks on Tiny Devices."</a> <em>Journal of Systems Architecture</em> 135 (2023): 102810. <strong>(SCI JCR Q1, CCF-B)</strong>
         </li>
         <li>
-            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Longshan Xu, and Zili Shao. ``Mera: Memory Reduction and Acceleration for Quantum Circuit Simulation via Redundancy Exploration." <em>In 2024 42nd IEEE International Conference on Computer Design (ICCD)</em>, pp. 525-533. IEEE, 2024. <strong>(CCF-B, Acceptance rate: 28%)</strong>
+            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Longshan Xu, and Zili Shao. <a href="https://ieeexplore.ieee.org/abstract/document/10818024?casa_token=Tnd7EVPKU-MAAAAA:TtlUGJ_ksgohxNXhBqcwqSbBJGbH8L2jQdnkO2Q-VFUjlFdT1KR3IOJz9lCd6u6dYSYr52w">''Mera: Memory Reduction and Acceleration for Quantum Circuit Simulation via Redundancy Exploration."</a> <em>In 2024 42nd IEEE International Conference on Computer Design (ICCD)</em>, pp. 525-533. IEEE, 2024. <strong>(CCF-B, Acceptance rate: 28%)</strong>
         </li>
         <li>
-            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, and Han Wang. ``RR-SC: Run-Time Reconfigurable Framework for Stochastic Computing-Based Neural Networks on Edge Devices.'' <em>Journal of Computer Research and Development</em>, 2024, 61(4): 840-855. <strong>(Chinese CCF-A)</strong>
+            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, and Han Wang. <a href="https://crad.ict.ac.cn/en/article/Y2024/I4/840">''RR-SC: Run-Time Reconfigurable Framework for Stochastic Computing-Based Neural Networks on Edge Devices.''</a> <em>Journal of Computer Research and Development</em>, 2024, 61(4): 840-855. <strong>(Chinese CCF-A)</strong>
         </li>
         <li>
-            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Yongzhuo Zhang, Bingzhe Li, and Lei Yang. ``BSC: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML." <em>In 2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC)</em>, pp. 314-319. IEEE, 2022. <strong>(CCF-C, Acceptance rate: 36.5%)</strong>
+            <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Yongzhuo Zhang, Bingzhe Li, and Lei Yang. <a href="https://ieeexplore.ieee.org/abstract/document/9712585?casa_token=xC6b1_UqGe8AAAAA:maLg4Q7MK7dw7xM63ReH_KP6pU0uY8lPsAZAZRklVbpUil9CZEANOh8DIdmJIWFfi6GF0gs">''BSC: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML."</a> <em>In 2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC)</em>, pp. 314-319. IEEE, 2022. <strong>(CCF-C, Acceptance rate: 36.5%)</strong>
         </li>
         <li>
-            Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. ``Ensuring Data Freshness for In-Storage Computing with Cooperative Buffer Manager.'' <em>In 2025 Design, Automation & Test in Europe Conference (DATE)</em>. IEEE, 2025. <strong>(Accepted, CCF-B)</strong>
+            Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. <a href="https://ieeexplore.ieee.org/abstract/document/10993028?casa_token=qbznp401g9cAAAAA:EvHkfNzQGuFxNQpk9wzAJ96Yg7xKOzVA0ImanRRUx1JEcrxBJbByPI_zgrDOAyyyIA-kUmk">''Ensuring Data Freshness for In-Storage Computing with Cooperative Buffer Manager.''</a> <em>In 2025 Design, Automation & Test in Europe Conference (DATE)</em>, pp. 1-7. IEEE, 2025. <strong>(CCF-B)</strong>
         </li>
         <li>
-            Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. ``MirrorFS: Cross-Layered File System for SSD-based In-Storage Computing.'' <em>In 2025 Great Lakes Symposium on VLSI (GLSVLSI)</em>. ACM, 2025. <strong>(Accepted, CCF-C)</strong>
+            Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. ''MirrorFS: Cross-Layered File System for SSD-based In-Storage Computing.'' <em>In 2025 Great Lakes Symposium on VLSI (GLSVLSI)</em>. ACM, 2025. <strong>(Accepted, CCF-C)</strong>
         </li>
         <li>
-            Panjie Qi, <strong>Yuhong Song</strong>, Hongwu Peng, Shaoyi Huang, Qingfeng Zhuge, and Edwin Hsing-Mean Sha. ``Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization." <em>In 2021 Great Lakes Symposium on VLSI (GLSVLSI)</em>, pp. 163-168. 2021. <strong>(CCF-C)</strong>
+            Panjie Qi, <strong>Yuhong Song</strong>, Hongwu Peng, Shaoyi Huang, Qingfeng Zhuge, and Edwin Hsing-Mean Sha. <a href="https://dl.acm.org/doi/abs/10.1145/3453688.3461739?casa_token=DUhLreU_a3QAAAAA:ORKBUR_yGqANLXqzyG3nmlq2yg1Irde41H-E0Kbba7qDeTvXaNIH4Il60Iy8Hy5cCGnP_AHnXmI">''Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization."</a> <em>In 2021 Great Lakes Symposium on VLSI (GLSVLSI)</em>, pp. 163-168. ACM, 2021. <strong>(CCF-C)</strong>
         </li>
         <li>
-            Yixuan Du, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>, Yibo Guo, Longshan Xu, and Qingfeng Zhuge. ``MuDP: Multi-Granularity Data Placement for Uniform Loops on SPM-DRAM Architectures to Minimize Latency.'' <em>Frontiers of Computer Science</em>, 2025, 19(5): 195107. <strong>(CCF-B)</strong>
+            Yixuan Du, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>, Yibo Guo, Longshan Xu, and Qingfeng Zhuge. <a href="https://link.springer.com/article/10.1007/s11704-023-3566-y">''MuDP: Multi-Granularity Data Placement for Uniform Loops on SPM-DRAM Architectures to Minimize Latency.''</a> <em>Frontiers of Computer Science</em>, 2025, 19(5): 195107. <strong>(SCI JCR Q1, CCF-B)</strong>
         </li>
         <li>
-            Rui Xu, Edwin Hsing-Mean Sha, Qingfeng Zhuge, <strong>Yuhong Song</strong>, and Han Wang. ``Optimizing Data Placement for Hybrid SRAM+Racetrack Memory SPM in Embedded Systems.'' <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em> 42, no. 3 (2022): 847-859. <strong>(CCF-A)</strong>
+            Rui Xu, Edwin Hsing-Mean Sha, Qingfeng Zhuge, <strong>Yuhong Song</strong>, and Han Wang. <a href="https://ieeexplore.ieee.org/abstract/document/9808100?casa_token=_kUN9hB2XzYAAAAA:ebshkzCUuRdtrKgAwv4DQeCylB6BSZ0H8SR3QyFG7WAlfMis5GBf0yFC2hsRPwFawfuGBrA">''Optimizing Data Placement for Hybrid SRAM+Racetrack Memory SPM in Embedded Systems.''</a> <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em> 42, no. 3 (2022): 847-859. <strong>(CCF-A, SCI JCR Q2)</strong>
         </li>
         <li>
-            Rui Xu, Edwin Hsing-Mean Sha, Qingfeng Zhuge, <strong>Yuhong Song</strong>, and Han Wang. ``Loop Interchange and Tiling for Multi-Dimensional Loops to Minimize Write Operations on NVMs.'' <em>Journal of Systems Architecture</em> 135 (2023): 102799. <strong>(CCF-B)</strong>
+            Rui Xu, Edwin Hsing-Mean Sha, Qingfeng Zhuge, <strong>Yuhong Song</strong>, and Han Wang. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762122002843">''Loop Interchange and Tiling for Multi-Dimensional Loops to Minimize Write Operations on NVMs.''</a> <em>Journal of Systems Architecture</em> 135 (2023): 102799. <strong>(SCI JCR Q1, CCF-B)</strong>
         </li>
         <li>
-            Rui Xu, Edwin Hsing-Mean Sha, Qingfeng Zhuge, <strong>Yuhong Song</strong>, and Jingzhi Lin. ``Optimal Loop Tiling for Minimizing Write Operations on NVMs with Complete Memory Latency Hiding." <em>In 2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC)</em>, pp. 389-394. IEEE, 2022. <strong>(CCF-C)</strong>
+            Rui Xu, Edwin Hsing-Mean Sha, Qingfeng Zhuge, <strong>Yuhong Song</strong>, and Jingzhi Lin. <a href="https://ieeexplore.ieee.org/abstract/document/9712532?casa_token=LUgtxjnVLdsAAAAA:XTYm5Dw8E41h-inDJsHdpOjM3ZBnRdYb-M9De4SfwAuoEeReTkdgZCR7wj3XtB4lhG29QtU">''Optimal Loop Tiling for Minimizing Write Operations on NVMs with Complete Memory Latency Hiding."</a> <em>In 2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC)</em>, pp. 389-394. IEEE, 2022. <strong>(CCF-C)</strong>
         </li>
         <li>
-            Panjie Qi, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Hongwu Peng, Shaoyi Huang, Zhenglun Kong, <strong>Yuhong Song</strong>, and Bingbing Li. ``Accelerating Framework of Transformer by Hardware Design and Model Compression Co-Optimization." <em>In 2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)</em>, pp. 1-9. IEEE, 2021. <strong>(CCF-B)</strong>
+            Panjie Qi, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Hongwu Peng, Shaoyi Huang, Zhenglun Kong, <strong>Yuhong Song</strong>, and Bingbing Li. <a href="https://ieeexplore.ieee.org/abstract/document/9643586?casa_token=tILZxO-EEhwAAAAA:m2ccbWRNOGm5QsM4PGzYZ0sz1I2CFDEJLG6YaXnIrjyp-tzcLfc4CI-kWJtd0JGRPYVZY-U">''Accelerating Framework of Transformer by Hardware Design and Model Compression Co-Optimization."</a> <em>In 2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)</em>, pp. 1-9. IEEE, 2021. <strong>(CCF-B)</strong>
         </li>
         <li>
-            Han Wang, Qingfeng Zhuge, Edwin Hsing-Mean Sha, Rui Xu, and <strong>Yuhong Song</strong>. ``Optimizing Efficiency of Machine Learning Based Hard Disk Failure Prediction by Two-Layer Classification-Based Feature Selection.'' <em>Applied Sciences</em>, Vol. 13, No. 13 (2023): 7544. <strong>(SCI JCR Q2)</strong>
+            Han Wang, Qingfeng Zhuge, Edwin Hsing-Mean Sha, Rui Xu, and <strong>Yuhong Song</strong>. <a href="https://www.mdpi.com/2076-3417/13/13/7544">''Optimizing Efficiency of Machine Learning Based Hard Disk Failure Prediction by Two-Layer Classification-Based Feature Selection.''</a> <em>Applied Sciences</em>, Vol. 13, No. 13 (2023): 7544. <strong>(SCI JCR Q2)</strong>
         </li>
         <li>
-            Jialin Liu, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, and <strong>Yuhong Song</strong>. ``Efficient Checkpoint under Unstable Power Supplies on NVM based Devices." <em>In 2022 IEEE HPCC/DSS/SmartCity/DependSys</em>, pp. 1846-1853. IEEE, 2022. <strong>(EI Index)</strong>
+            Jialin Liu, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, and <strong>Yuhong Song</strong>. <a href="https://ieeexplore.ieee.org/abstract/document/10074682">''Efficient Checkpoint under Unstable Power Supplies on NVM based Devices."</a> <em>In 2022 IEEE HPCC/DSS/SmartCity/DependSys</em>, pp. 1846-1853. IEEE, 2022. <strong>(EI Index)</strong>
         </li>
         <li>
-            Edwin Hsing-Mean Sha, Yeteng Liao, Qingfeng Zhuge, Rui Xu, <strong>Yuhong Song</strong>, and Jialin Liu. ``Pseudo-Log: Restore Global Data Facing Power Failures with Minimum NVM Write." <em>In 2022 IEEE HPCC/DSS/SmartCity/DependSys</em>, pp. 2027-2030. IEEE, 2022. <strong>(EI Index)</strong>
+            Edwin Hsing-Mean Sha, Yeteng Liao, Qingfeng Zhuge, Rui Xu, <strong>Yuhong Song</strong>, and Jialin Liu. <a href="https://ieeexplore.ieee.org/abstract/document/10074635">''Pseudo-Log: Restore Global Data Facing Power Failures with Minimum NVM Write."</a> <em>In 2022 IEEE HPCC/DSS/SmartCity/DependSys</em>, pp. 2027-2030. IEEE, 2022. <strong>(EI Index)</strong>
         </li>
         <li>
-            张永卓, 沙行勉, 诸葛晴凤, <strong>宋玉红</strong>. ``基于并行块的自适应量化随机计算.'' <em>华东师范大学学报(自然科学版)</em>, Vol. 2024, No. 2 (2024): 76-85. <strong>(中文核心期刊)</strong>
+            张永卓, 沙行勉, 诸葛晴凤, <strong>宋玉红</strong>. <a href="https://xblk.ecnu.edu.cn/CN/10.3969/j.issn.1000-5641.2024.02.009">''基于并行块的自适应量化随机计算.''</a> <em>华东师范大学学报(自然科学版)</em>, Vol. 2024, No. 2 (2024): 76-85. <strong>(中文核心期刊)</strong>
         </li>
         <li>
-            王寒, 沙行勉, <strong>宋玉红</strong>, 徐珑珊, 诸葛晴凤. ``量子计算融入计算机导论课程的教学探索.'' <em>计算机教育</em>, Vol. 2023, No.8 (2023):182-185. <strong>(CCF-T2)</strong>
+            王寒, 沙行勉, <strong>宋玉红</strong>, 徐珑珊, 诸葛晴凤. ''量子计算融入计算机导论课程的教学探索.'' <em>计算机教育</em>, Vol. 2023, No.8 (2023):182-185. <strong>(CCF-T2)</strong>
         </li>
         <li>
-            沙行勉, 王寒, 徐珑珊, <strong>宋玉红</strong>, 诸葛晴凤. ``ChatGPT对计算机基础教育的挑战分析与应对策略.'' <em>计算机教育</em>, Vol. 2023, NO. 11 (2023):51-54. <strong>(CCF-T2, 创刊20年20佳论文奖)</strong>
+            沙行勉, 王寒, 徐珑珊, <strong>宋玉红</strong>, 诸葛晴凤. ''ChatGPT对计算机基础教育的挑战分析与应对策略.'' <em>计算机教育</em>, Vol. 2023, NO. 11 (2023):51-54. <strong>(CCF-T2, 创刊20年20佳论文奖)</strong>
         </li>
     </ol>
     <br>
     <p>(Update Date: 2025-05-01)</p>
 </section>
-</body>
