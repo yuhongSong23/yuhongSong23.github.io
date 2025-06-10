@@ -20,6 +20,7 @@ permalink: /services/
     <h5>Technical Program Committee</h5>
     <ul>
       <li>IEEE/ACM International Conference On Computer Aided Design (ICCAD 2025)</li>
+      <li>IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2025)</li>
       <li>IEEE International Conference on Quantum Computing and Engineering (QCE 2024, 2025)</li>
     </ul>
     <h5>Academic Conference Organization</h5>
@@ -36,18 +37,21 @@ permalink: /services/
       <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
       <li>Journal of Systems Architecture: Embedded Software Design (JSA)</li>
       <li>ACM Transactions on CyberPhysical Systems (TCPS)</li>
+      <li>Quantum Information Processing (QINP)</li>
     </ul>
     <h5>Conference Review</h5>
     <ul>
       <li>International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2024)</li>
       <li>AAAI Conference on Artificial Intelligence (AAAI 2021)</li>
       <li>Design Automation Conference (DAC 2021, 2022, 2025)</li>
+      <li>IEEE/ACM International Conference On Computer Aided Design (ICCAD 2025)</li>
       <li>Design, Automation and Test in Europe Conference (DATE 2021)</li>
       <li>International Conference on Computer Design (ICCD 2020)</li>
       <li>ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2021)</li>
       <li>ACM Symposium on Cloud Computing (SoCC 2021)</li>
       <li>Asia and South Pacific Design Automation Conference (ASP-DAC 2020, 2023)</li>
       <li>Great Lakes Symposium on VLSI (GLSVLSI 2021)</li>
+      <li>IEEE International Conference on Quantum Computing and Engineering (QCE 2024)</li>
     </ul>
     <h2>Honors and Awards</h2>
     <ul>
