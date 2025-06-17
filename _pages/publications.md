@@ -13,6 +13,10 @@ permalink: /publications/
     a {
       color: #a32133;
     }
+    h5 {
+      font-weight: 700;
+      margin-left: -2em;
+    }
 </style>
 
 
