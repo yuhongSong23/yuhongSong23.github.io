@@ -20,18 +20,18 @@ permalink: /news/
     }
 </style>
 
-[comment]: <> (paper, service, award, talk)
+[comment]: <> (paper, service, award, talk, contribution)
 <section>
   <h2>📢 News</h2>
-  <li>Jun. 2025, 🙌 Invited as TPC member at <a href="https://www.ieee-ai-for-science.org/2025/ispa/">ISPA 2025</a>.</li>
+  <li>Jun. 2025, 🙌 Invited as TPC member at ISPA 2025.</li>
   <li>Apr. 2025, 📝 Paper MirrorFS is accepted by GLSVLSI 2025. Congratulations to Jin!</li>
-  <li>Apr. 2025, 🙌 Invited as TPC member at <a href="https://2025.iccad.com/">ICCAD 2025</a>.</li>
-  <li>Mar. 2025, 🙌 Invited as PC member at <a href="https://qce.quantum.ieee.org/2025/">QCE 2025</a>.</li>
+  <li>Apr. 2025, 🙌 Invited as TPC member at ICCAD 2025.</li>
+  <li>Mar. 2025, 🙌 Invited as PC member at QCE 2025.</li>
   <li>Nov. 2024, 🎤 Talk at ICCD 2024, Milan. Thanks to Longshan.</li>
   <li>Nov. 2024, 📝 Paper <a href="https://ieeexplore.ieee.org/abstract/document/10993028?casa_token=qbznp401g9cAAAAA:EvHkfNzQGuFxNQpk9wzAJ96Yg7xKOzVA0ImanRRUx1JEcrxBJbByPI_zgrDOAyyyIA-kUmk">CBM</a> is accepted by DATE 2025. Congratulations to Jin!</li>
   <li>Nov. 2024, 🙌 <a href="https://stableq.org/">StableQ 2024</a> workshop is successfully organized at MICRO 2024, Austin (Program Committee).</li>
   <li>Sep. 2024, Join George Mason University (GMU) as a Postdoctoral Research Fellow.</li>
-  <li>Aug. 2024, 🙌 Invited as PC member at <a href="https://qce.quantum.ieee.org/2024/">QCE 2024</a>.</li>
+  <li>Aug. 2024, 🙌 Invited as PC member at QCE 2024.</li>
   <li>Aug. 2024, 📝 Paper <a href="https://ieeexplore.ieee.org/abstract/document/10818024?casa_token=Tnd7EVPKU-MAAAAA:TtlUGJ_ksgohxNXhBqcwqSbBJGbH8L2jQdnkO2Q-VFUjlFdT1KR3IOJz9lCd6u6dYSYr52w">Mera</a> is accepted by ICCD 2024.</li>
   <li>Jun. 2024, Ph.D. graduation. </li>
   <li>May 2024, 🏆 Outstanding Graduate of East China Normal University.</li>
@@ -48,13 +48,13 @@ permalink: /news/
   <li>Dec. 2022, 🏆 Outstanding Student Leader of East China Normal University.</li>
   <li>Dec. 2022, 📝 Paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762122002958">SC-NAS</a> is accepted by JSA journal.</li>
   <li>Nov. 2022, 📝 Paper <a href="https://crad.ict.ac.cn/en/article/Y2024/I4/840">RR-SC</a> is accepted by Journal of Computer Research and Development.</li>
-  <li>Oct. 2022, 🙌 <a href="https://esweek.org/">ESWEEK 2022</a> is successfully organized by Big Data and Intelligent Systems Team (Conference Chair: Prof. Sha).</li>
+  <li>Oct. 2022, 🙌 <a href="https://esweek.org/">ESWEEK 2022</a> is successfully organized in Shanghai (Conference Chair: Prof. Sha).</li>
   <li>Oct. 2022, 🎤 Talk at CCF ESTC 2022, Shanghai.</li>
   <li>Jan. 2022, 🎤 Talk at ASP-DAC 2022, virtual conference.</li>
   <li>Dec. 2021, 🏆 Social Scholarship, East China Normal University.</li>
   <li>Sep. 2021, 📝 Paper <a href="https://crad.ict.ac.cn/en/article/Y2024/I4/840">BSC</a> is accepted by ASP-DAC 2022 conference.</li>
   <li>Aug. 2021, Ph.D. admission.</li>
-  <li>Jul. 2021, 📝 <a href="https://ieeexplore.ieee.org/abstract/document/9643586?casa_token=tILZxO-EEhwAAAAA:m2ccbWRNOGm5QsM4PGzYZ0sz1I2CFDEJLG6YaXnIrjyp-tzcLfc4CI-kWJtd0JGRPYVZY-U">One paper</a> for Transformer acceleration is accepted by ICCAD 2021 conference. Congratulations to Panjie!</li>
+  <li>Jul. 2021, 📝 <a href="https://ieeexplore.ieee.org/abstract/document/9643586?casa_token=tILZxO-EEhwAAAAA:m2ccbWRNOGm5QsM4PGzYZ0sz1I2CFDEJLG6YaXnIrjyp-tzcLfc4CI-kWJtd0JGRPYVZY-U">One paper</a> for transformer acceleration is accepted by ICCAD 2021 conference. Congratulations to Panjie!</li>
   <li>Feb. 2021, 📝 Paper <a href="https://ieeexplore.ieee.org/abstract/document/9586295?casa_token=_-TgosNFim4AAAAA:oRP_KXYaTCITWTgXZtbNF7wFjhDZet1RyfqL9K632YgSohfmelf0zIYPhoaNYW5IRQ-O5rI">RT3</a> is accepted by DAC 2021 conference.</li>
   <div id="more-btn">Show More <span id="arrow">&#9660;</span></div>
 </section>
