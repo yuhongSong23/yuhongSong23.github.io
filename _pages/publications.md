@@ -74,7 +74,7 @@ permalink: /publications/
             Edwin Hsing-Mean Sha, Yeteng Liao, Qingfeng Zhuge, Rui Xu, <strong>Yuhong Song</strong>, and Jialin Liu. <a href="https://ieeexplore.ieee.org/abstract/document/10074635">''Pseudo-Log: Restore Global Data Facing Power Failures with Minimum NVM Write."</a> <em>In 2022 IEEE HPCC/DSS/SmartCity/DependSys</em>, pp. 2027-2030. IEEE, 2022. <strong>(EI Index)</strong>
         </li>
         <li>
-            张永卓, 沙行勉, 诸葛晴凤, <strong>宋玉红</strong>. <a href="https://xblk.ecnu.edu.cn/CN/10.3969/j.issn.1000-5641.2024.02.009">''基于并行块的自适应量化随机计算.''</a> <em>华东师范大学学报(自然科学版)</em>, Vol. 2024, No. 2 (2024): 76-85. <strong>(中文核心期刊)</strong>
+            Yongzhuo Zhang, Qingfeng Zhuge, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>. <a href="https://xblk.ecnu.edu.cn/CN/10.3969/j.issn.1000-5641.2024.02.009">''Parallel block-based stochastic computing with adapted quantization.''</a> <em>Journal of East China Normal University (Natural Science)</em>, Vol. 2024, No. 2 (2024): 76-85. <strong>(Core Chinese Journal)</strong>
         </li>
         <li>
             王寒, 沙行勉, <strong>宋玉红</strong>, 徐珑珊, 诸葛晴凤. ''量子计算融入计算机导论课程的教学探索.'' <em>计算机教育</em>, Vol. 2023, No.8 (2023):182-185. <strong>(CCF-T2)</strong>
