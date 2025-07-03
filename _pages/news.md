@@ -26,7 +26,7 @@ permalink: /news/
   <li>Jun. 2025, 🎤 Poster presentation at GLSVLSI 2025, New Orleans.</li>
   <li>Jun. 2025, 📝 One paper is accepted by Advanced Quantum Technologies journal. Congratulations to Longshan!</li>
   <li>Jun. 2025, 🙌 Invited as TPC member at ISPA 2025.</li>
-  <li>Apr. 2025, 📝 Paper MirrorFS is accepted by GLSVLSI 2025. Congratulations to Jin!</li>
+  <li>Apr. 2025, 📝 Paper <a href="https://dl.acm.org/doi/10.1145/3716368.3735146">MirrorFS</a> is accepted by GLSVLSI 2025. Congratulations to Jin!</li>
   <li>Apr. 2025, 🙌 Invited as TPC member at ICCAD 2025.</li>
   <li>Mar. 2025, 🙌 Invited as PC member at QCE 2025.</li>
   <li>Nov. 2024, 🎤 Talk at ICCD 2024, Milan. Thanks to Longshan.</li>
