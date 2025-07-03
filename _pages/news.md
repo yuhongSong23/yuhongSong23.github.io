@@ -23,6 +23,8 @@ permalink: /news/
 [comment]: <> (paper, service, award, talk, contribution)
 <section>
   <h2>📢 News</h2>
+  <li>Jun. 2025, 🎤 Poster presentation at GLSVLSI 2025, New Orleans.</li>
+  <li>Jun. 2025, 📝 One paper is accepted by Advanced Quantum Technologies journal. Congratulations to Longshan!</li>
   <li>Jun. 2025, 🙌 Invited as TPC member at ISPA 2025.</li>
   <li>Apr. 2025, 📝 Paper MirrorFS is accepted by GLSVLSI 2025. Congratulations to Jin!</li>
   <li>Apr. 2025, 🙌 Invited as TPC member at ICCAD 2025.</li>

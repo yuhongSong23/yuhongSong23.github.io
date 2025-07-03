@@ -25,9 +25,9 @@ permalink: /services/
     </ul>
     <h5>Academic Conference Organization</h5>
     <ul>
-        <li>Nov. 2024, Co-organizer (Program Committee) for the StableQ Workshop.</li>
-        <li>Aug. 2023, Student organizer for the Symposium on Big Data and Intelligent Systems Technology.</li>
-        <li>Oct. 2022, One of student organizers for the ESWEEK International Conference.</li>
+        <li>Nov. 2024, Co-organizer (Program Committee) for the StableQ Workshop</li>
+        <li>Aug. 2023, Student organizer for the Symposium on Big Data and Intelligent Systems Technology</li>
+        <li>Oct. 2022, One of student organizers for the ESWEEK International Conference</li>
     </ul>
     <h5>Journal Review</h5>
     <ul>
@@ -61,7 +61,13 @@ permalink: /services/
         <li>Dec. 2022, Huaxin Scholarship, East China Normal University</li>
         <li>Dec. 2022, Outstanding Student Leader of East China Normal University</li>
         <li>Dec. 2021, Social Scholarship, East China Normal University</li>
-        <li>2015-2019, several honors and awards at NJAU, including the National Scholarship, First-Class Scholarship for Excellent Students, Second-Class Scholarship for Excellent Students, Outstanding Student, Outstanding Student Leader, Outstanding Graduate, and competition awards.</li>
+        <li>Jun. 2019, Outstanding Graduate, NJAU</li>
+        <li>Nov. 2018, First-Class Scholarship for Excellent Students, NJAU</li>
+        <li>May, 2018,  Outstanding Student Leader, NJAU</li>
+        <li>Mar. 2018, First Prize in the 5th Computer Design Competition, NJAU</li>
+        <li>Nov. 2017, Second-Class Scholarship for Excellent Students, NJAU</li>
+        <li>Nov. 2016, First-Class Scholarship for Excellent Students, NJAU</li>
+        <li>Nov. 2016, National Scholarship</li>
     </ul>
 </section>
 
