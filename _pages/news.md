@@ -27,8 +27,9 @@ permalink: /news/
 [comment]: <> (paper, service, award, talk, contribution)
 <section>
   <h2>📢 News</h2>
+  <li>[2025/07/17] 📝 Paper <a href="">QuBound</a> is accepted by TCAD journal. Congratulations to Jinyang!</li>
   <li>[2025/06/30] 🎤 Poster presentation at GLSVLSI 2025, New Orleans.</li>
-  <li>[2025/06/25] 📝 One paper is accepted by Advanced Quantum Technologies journal. Congratulations to Longshan!</li>
+  <li>[2025/06/25] 📝 <a href="">One paper</a> is accepted by Advanced Quantum Technologies journal. Congratulations to Longshan!</li>
   <li>[2025/06/10] 🙌 Invited as TPC member at ISPA 2025.</li>
   <li>[2025/04/30] 📝 Paper <a href="https://dl.acm.org/doi/10.1145/3716368.3735146">MirrorFS</a> is accepted by GLSVLSI 2025. Congratulations to Jin!</li>
   <li>[2025/04/27] 🙌 Invited as TPC member at ICCAD 2025.</li>
