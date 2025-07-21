@@ -23,11 +23,11 @@ permalink: /publications/
 <section class="publications">
     <h2>
       Publications
-      <span style="font-size: 18px; color: gray;"> (* Corresponding Author)</span>
+      <span style="font-size: 18px; color: gray;"> (*Corresponding Author)</span>
     </h2>
     <ol>
         <li>
-            Jinyang Li, Samudra Dasgupta, <strong>Yuhong Song*</strong>, Lei Yang, Travis Humble, Weiwen Jiang*. Computational Performance Bounds Prediction in Quantum Computing with Unstable Noise. <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em>, 2025. <strong>(Accepted, CCF-A)</strong>
+            Jinyang Li, Samudra Dasgupta, <strong>Yuhong Song*</strong>, Lei Yang*, Travis Humble, Weiwen Jiang. Computational Performance Bounds Prediction in Quantum Computing with Unstable Noise. <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em>, 2025. <strong>(Accepted, CCF-A)</strong>
         </li>
         <li>
             Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. <a href="https://ieeexplore.ieee.org/abstract/document/10993028?casa_token=qbznp401g9cAAAAA:EvHkfNzQGuFxNQpk9wzAJ96Yg7xKOzVA0ImanRRUx1JEcrxBJbByPI_zgrDOAyyyIA-kUmk">''Ensuring Data Freshness for In-Storage Computing with Cooperative Buffer Manager.''</a> <em>In 2025 Design, Automation & Test in Europe Conference (DATE)</em>, pp. 1-7. IEEE, 2025. <strong>(CCF-B)</strong>
