@@ -56,14 +56,14 @@ permalink: /services/
     <h2>Honors and Awards</h2>
     <ul>
         <li>May 2024, Outstanding Graduate of East China Normal University</li>
-        <li>Dec. 2023, Huaxin Scholarship, East China Normal University</li>
+        <li>Dec. 2023, Huaxin Scholarship (CNY 15,000), East China Normal University</li>
         <li>Dec. 2023, Outstanding Student of East China Normal University</li>
-        <li>Dec. 2022, Huaxin Scholarship, East China Normal University</li>
+        <li>Dec. 2022, Huaxin Scholarship (CNY 15,000), East China Normal University</li>
         <li>Dec. 2022, Outstanding Student Leader of East China Normal University</li>
         <li>Dec. 2021, Social Scholarship, East China Normal University</li>
         <li>Jun. 2019, Outstanding Graduate, NJAU</li>
         <li>Nov. 2018, First-Class Scholarship for Excellent Students, NJAU</li>
-        <li>May, 2018,  Outstanding Student Leader, NJAU</li>
+        <li>May, 2018, Outstanding Student Leader, NJAU</li>
         <li>Mar. 2018, First Prize in the 5th Computer Design Competition, NJAU</li>
         <li>Nov. 2017, Second-Class Scholarship for Excellent Students, NJAU</li>
         <li>Nov. 2016, First-Class Scholarship for Excellent Students, NJAU</li>
