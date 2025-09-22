@@ -27,6 +27,7 @@ permalink: /news/
 [comment]: <> (paper, service, award, talk, contribution)
 <section>
   <h2>📢 News</h2>
+  <li>[2025/09/21] 🙌 Selected as a member of <a href="https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCARCH/">CCF Computer Architecture Committee (CCF TCARCH)</a>.</li>
   <li>[2025/09/10] Join Peng Cheng National Laboratory as a Assistant Researcher.</li>
   <li>[2025/07/17] 📝 Paper <a href="">QuBound</a> is accepted by TCAD journal. Congratulations to Jinyang!</li>
   <li>[2025/06/30] 🎤 Poster presentation at GLSVLSI 2025, New Orleans.</li>
