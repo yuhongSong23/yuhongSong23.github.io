@@ -27,7 +27,7 @@ permalink: /publications/
     </h2>
     <ol>
         <li>
-            Jinyang Li, Samudra Dasgupta, <strong>Yuhong Song*</strong>, Lei Yang*, Travis Humble, Weiwen Jiang. Computational Performance Bounds Prediction in Quantum Computing with Unstable Noise. <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em>, 2025. <strong>(Accepted, CCF-A)</strong>
+            Jinyang Li, Samudra Dasgupta, <strong>Yuhong Song*</strong>, Lei Yang*, Travis Humble, Weiwen Jiang. <a href="">''Computational Performance Bounds Prediction in Quantum Computing with Unstable Noise.''</a> <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em>, 2025. <strong>(CCF-A)</strong>
         </li>
         <li>
             Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. <a href="https://ieeexplore.ieee.org/abstract/document/10993028?casa_token=qbznp401g9cAAAAA:EvHkfNzQGuFxNQpk9wzAJ96Yg7xKOzVA0ImanRRUx1JEcrxBJbByPI_zgrDOAyyyIA-kUmk">''Ensuring Data Freshness for In-Storage Computing with Cooperative Buffer Manager.''</a> <em>In 2025 Design, Automation & Test in Europe Conference (DATE)</em>, pp. 1-7. IEEE, 2025. <strong>(CCF-B)</strong>
@@ -36,7 +36,7 @@ permalink: /publications/
             Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. <a href="https://dl.acm.org/doi/10.1145/3716368.3735146">''MirrorFS: Cross-Layered File System for SSD-based In-Storage Computing.''</a> <em>In 2025 Great Lakes Symposium on VLSI (GLSVLSI)</em>, pp. 348-353. ACM, 2025. <strong>(CCF-C)</strong>
         </li>
         <li>
-            Longshan Xu, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>, Yunfan Chi, Qingfeng Zhuge. Accelerating Quantum Circuit Simulations with Data Compression. <em>Advanced Quantum Technologies</em>, 2025. <strong>(Accepted, SCI JCR Q1)</strong>
+            Longshan Xu, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>, Yunfan Chi, Qingfeng Zhuge. <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/qute.202500223?casa_token=z5DdPFYAB7sAAAAA%3A7bxp8vzUPmAKT8RCk5BkijierbK8I3M-Nu1Rd-Q3Z6pc1Kl2ga2DS3I_Z8wzoZqZMXV5_Eo_o5R19Q">''Accelerating Quantum Circuit Simulations with Data Compression.''</a> <em>Advanced Quantum Technologies</em>, 2025. <strong>(SCI JCR Q1)</strong>
         </li>
         <li>
             Yixuan Du, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>, Yibo Guo, Longshan Xu, Qingfeng Zhuge. <a href="https://link.springer.com/article/10.1007/s11704-023-3566-y">''MuDP: Multi-Granularity Data Placement for Uniform Loops on SPM-DRAM Architectures to Minimize Latency.''</a> <em>Frontiers of Computer Science</em>, 2025, 19(5): 195107. <strong>(SCI JCR Q1, CCF-B)</strong>
