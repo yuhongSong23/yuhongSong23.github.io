@@ -27,7 +27,8 @@ permalink: /news/
 [comment]: <> (paper, service, award, talk, contribution)
 <section>
   <h2>📢 News</h2>
-  <li>[2025/10/10] 📝 Paper <a href="">QuSplit</a> is accepted by Quantum Machine Intelligence journal. Congratulations to Jinyang!</li>
+  <li>[2025/11/20] 🏆 Selected for the the 2025 National Youth Talent Program!</li>
+  <li>[2025/10/10] 📝 Paper <a href="https://link.springer.com/article/10.1007/s42484-025-00319-8">QuSplit</a> is accepted by Quantum Machine Intelligence journal. Congratulations to Jinyang!</li>
   <li>[2025/09/21] 🙌 Elected as an executive committee member of <a href="https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCARCH/">CCF Computer Architecture Committee (CCF TCARCH)</a>.</li>
   <li>[2025/09/10] Join Peng Cheng National Laboratory as a Assistant Researcher.</li>
   <li>[2025/07/17] 📝 Paper <a href="">QuBound</a> is accepted by TCAD journal. Congratulations to Jinyang!</li>

@@ -33,13 +33,13 @@ permalink: /publications/
             Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. <a href="https://ieeexplore.ieee.org/abstract/document/10993028?casa_token=qbznp401g9cAAAAA:EvHkfNzQGuFxNQpk9wzAJ96Yg7xKOzVA0ImanRRUx1JEcrxBJbByPI_zgrDOAyyyIA-kUmk">''Ensuring Data Freshness for In-Storage Computing with Cooperative Buffer Manager.''</a> <em>In 2025 Design, Automation & Test in Europe Conference (DATE)</em>, pp. 1-7. IEEE, 2025. <strong>(CCF-B)</strong>
         </li>
         <li>
-            Jinyang Li, <strong>Yuhong Song</strong>, Yipei Liu, Jianli Pan, Lei Yang, Travis Humble, Weiwen Jiang. <a href="https://arxiv.org/abs/2501.12492">''QuSplit: Achieving Both High Fidelity and Throughput via Job Splitting on Noisy Quantum Computers.''</a> <em>Quantum Machine Intelligence</em>, 2025. <strong>(Accepted, SCI JCR Q2)</strong>
+            Jinyang Li, <strong>Yuhong Song</strong>, Yipei Liu, Jianli Pan, Lei Yang, Travis Humble, Weiwen Jiang. <a href="https://link.springer.com/article/10.1007/s42484-025-00319-8">''QuSplit: Achieving Both High Fidelity and Throughput via Job Splitting on Noisy Quantum Computers.''</a> <em>Quantum Machine Intelligence</em>, 2025, 7(99). <strong>(Accepted, SCI JCR Q2)</strong>
         </li>
         <li>
             Jin Xue, <strong>Yuhong Song</strong>, Yang Guo, Zili Shao. <a href="https://dl.acm.org/doi/10.1145/3716368.3735146">''MirrorFS: Cross-Layered File System for SSD-based In-Storage Computing.''</a> <em>In 2025 Great Lakes Symposium on VLSI (GLSVLSI)</em>, pp. 348-353. ACM, 2025. <strong>(CCF-C)</strong>
         </li>
         <li>
-            Longshan Xu, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>, Yunfan Chi, Qingfeng Zhuge. <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/qute.202500223?casa_token=z5DdPFYAB7sAAAAA%3A7bxp8vzUPmAKT8RCk5BkijierbK8I3M-Nu1Rd-Q3Z6pc1Kl2ga2DS3I_Z8wzoZqZMXV5_Eo_o5R19Q">''Accelerating Quantum Circuit Simulations with Data Compression.''</a> <em>Advanced Quantum Technologies</em>, 2025. <strong>(Accepted, SCI JCR Q1)</strong>
+            Longshan Xu, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>, Yunfan Chi, Qingfeng Zhuge. <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/qute.202500223?casa_token=z5DdPFYAB7sAAAAA%3A7bxp8vzUPmAKT8RCk5BkijierbK8I3M-Nu1Rd-Q3Z6pc1Kl2ga2DS3I_Z8wzoZqZMXV5_Eo_o5R19Q">''Accelerating Quantum Circuit Simulations with Data Compression.''</a> <em>Advanced Quantum Technologies</em>, 2025, 8(10): e2500223. <strong>(Accepted, SCI JCR Q1)</strong>
         </li>
         <li>
             Yixuan Du, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>, Yibo Guo, Longshan Xu, Qingfeng Zhuge. <a href="https://link.springer.com/article/10.1007/s11704-023-3566-y">''MuDP: Multi-Granularity Data Placement for Uniform Loops on SPM-DRAM Architectures to Minimize Latency.''</a> <em>Frontiers of Computer Science</em>, 2025, 19(5): 195107. <strong>(SCI JCR Q1, CCF-B)</strong>
@@ -54,7 +54,7 @@ permalink: /publications/
             <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Han Wang. <a href="https://crad.ict.ac.cn/en/article/Y2024/I4/840">''RR-SC: Run-Time Reconfigurable Framework for Stochastic Computing-Based Neural Networks on Edge Devices.''</a> <em>Journal of Computer Research and Development</em>, 2024, 61(4): 840-855. <strong>(Chinese CCF-A)</strong>
         </li>
         <li>
-            Yongzhuo Zhang, Qingfeng Zhuge, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>. <a href="https://xblk.ecnu.edu.cn/CN/10.3969/j.issn.1000-5641.2024.02.009">''Parallel block-based stochastic computing with adapted quantization.''</a> <em>Journal of East China Normal University (Natural Science)</em>, Vol. 2024, No. 2 (2024): 76-85. <strong>(Core Chinese Journal)</strong>
+            Yongzhuo Zhang, Qingfeng Zhuge, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>. <a href="https://xblk.ecnu.edu.cn/CN/10.3969/j.issn.1000-5641.2024.02.009">''Parallel Block-based Stochastic Computing with Adapted Quantization.''</a> <em>Journal of East China Normal University (Natural Science)</em>, Vol. 2024, No. 2 (2024): 76-85. <strong>(Core Chinese Journal)</strong>
         </li>
         <li>
             <strong>Yuhong Song</strong>, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Han Wang. <a href="https://link.springer.com/article/10.1007/s11128-023-04160-5">''Efficient Algorithm for Full-State Quantum Circuit Simulation with DD Compression while Maintaining Accuracy.''</a> <em>Quantum Information Processing</em>, 2023, 22(11): 1-25. <strong>(SCI JCR Q1)</strong>

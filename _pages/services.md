@@ -17,6 +17,12 @@ permalink: /services/
 
 <section>
 <h2>Professional Services</h2>
+    <h5>Committee Member</h5>    
+    <ul>
+      <li>
+        Executive committee member of CCF Computer Architecture Committee (CCF TCARCH)
+      </li>
+    </ul>
     <h5>Technical Program Committee</h5>
     <ul>
       <li>IEEE/ACM International Conference On Computer Aided Design (ICCAD 2025)</li>
@@ -31,6 +37,7 @@ permalink: /services/
     </ul>
     <h5>Journal Review</h5>
     <ul>
+      <li>IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI)</li>
       <li>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</li>
       <li>IEEE Transactions on Computers (TC)</li>
       <li>ACM Transactions on Embedded Computing Systems (TECS)</li>
@@ -55,6 +62,7 @@ permalink: /services/
     </ul>
     <h2>Honors and Awards</h2>
     <ul>
+        <li>Nov. 2025, National Youth Talent Program</li>
         <li>May 2024, Outstanding Graduate of East China Normal University</li>
         <li>Dec. 2023, Huaxin Scholarship (CNY 15,000), East China Normal University</li>
         <li>Dec. 2023, Outstanding Student of East China Normal University</li>
