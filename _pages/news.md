@@ -27,13 +27,15 @@ permalink: /news/
 [comment]: <> (paper, service, award, talk, contribution)
 <section>
   <h2>📢 News</h2>
+  <li>[2025/12/12] 📝 Awarded The Strategic Research Project of PCL (CNY 500,000) as Principal Investigator.</li>
+  <li>[2025/12/11] 📝 Paper QMin is accepted by Quantum Information Processing journal. Congratulations to Longshan!</li>
   <li>[2025/11/20] 🏆 Selected for the the 2025 National Youth Talent Program!</li>
   <li>[2025/10/10] 📝 Paper <a href="https://link.springer.com/article/10.1007/s42484-025-00319-8">QuSplit</a> is accepted by Quantum Machine Intelligence journal. Congratulations to Jinyang!</li>
   <li>[2025/09/21] 🙌 Elected as an executive committee member of <a href="https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCARCH/">CCF Computer Architecture Committee (CCF TCARCH)</a>.</li>
   <li>[2025/09/10] Join Pengcheng National Laboratory as a Assistant Researcher.</li>
   <li>[2025/07/17] 📝 Paper <a href="">QuBound</a> is accepted by TCAD journal. Congratulations to Jinyang!</li>
   <li>[2025/06/30] 🎤 Poster presentation at GLSVLSI 2025, New Orleans.</li>
-  <li>[2025/06/25] 📝 <a href="">One paper</a> is accepted by Advanced Quantum Technologies journal. Congratulations to Longshan!</li>
+  <li>[2025/06/25] 📝 <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/qute.202500223?casa_token=z5DdPFYAB7sAAAAA%3A7bxp8vzUPmAKT8RCk5BkijierbK8I3M-Nu1Rd-Q3Z6pc1Kl2ga2DS3I_Z8wzoZqZMXV5_Eo_o5R19Q">One paper</a> is accepted by Advanced Quantum Technologies journal. Congratulations to Longshan!</li>
   <li>[2025/06/10] 🙌 Invited as TPC member at ISPA 2025.</li>
   <li>[2025/04/30] 📝 Paper <a href="https://dl.acm.org/doi/10.1145/3716368.3735146">MirrorFS</a> is accepted by GLSVLSI 2025. Congratulations to Jin!</li>
   <li>[2025/04/27] 🙌 Invited as TPC member at ICCAD 2025.</li>
