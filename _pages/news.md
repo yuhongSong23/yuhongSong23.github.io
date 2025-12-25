@@ -27,7 +27,7 @@ permalink: /news/
 [comment]: <> (paper, service, award, talk, contribution)
 <section>
   <h2>📢 News</h2>
-  <li>[2025/12/12] 📝 Awarded The Strategic Research Project of PCL (CNY 500,000) as Principal Investigator.</li>
+  <li>[2025/12/12] 📝 Awarded The Basic and Frontier Research Project of PCL (CNY 500,000) as Principal Investigator.</li>
   <li>[2025/12/11] 📝 Paper QMin is accepted by Quantum Information Processing journal. Congratulations to Longshan!</li>
   <li>[2025/11/20] 🏆 Selected for the the 2025 National Youth Talent Program!</li>
   <li>[2025/10/10] 📝 Paper <a href="https://link.springer.com/article/10.1007/s42484-025-00319-8">QuSplit</a> is accepted by Quantum Machine Intelligence journal. Congratulations to Jinyang!</li>
