@@ -25,7 +25,7 @@ permalink: /services/
     </ul>
     <h5>Technical Program Committee</h5>
     <ul>
-      <li>IEEE/ACM International Conference On Computer Aided Design (ICCAD 2025)</li>
+      <li>IEEE/ACM International Conference On Computer Aided Design (ICCAD 2025, 2026)</li>
       <li>IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2025)</li>
       <li>IEEE International Conference on Quantum Computing and Engineering (QCE 2024, 2025)</li>
     </ul>
