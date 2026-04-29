@@ -27,7 +27,7 @@ permalink: /news/
 [comment]: <> (paper, service, award, talk, contribution)
 <section id="news-list">
   <h2>📢 News</h2>
-  <li>[2026/04/19] 📝 One survey paper is accepted by COMST journal. Congratulations to Xun Tang!</li>
+  <li>[2026/04/19] 📝 One survey paper is accepted by IEEE Communications Surveys & Tutorials. Congratulations to Xun Tang!</li>
   <li>[2026/02/24] 📝 Paper TernaInfer is accepted by DAC 2026. Congratulations to Jie Gu!</li>
   <li>[2026/02/15] 🙌 Invited as TPC member at ICCAD 2026.</li>
   <li>[2026/01/07] 📝 Paper <a href="https://ieeexplore.ieee.org/abstract/document/11344752">QuanTrans</a> is accepted by TPDS journal. Congratulations to Longshan!</li>
