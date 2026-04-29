@@ -4,7 +4,7 @@ permalink: /news/
 ---
 <style>
     body {
-        font-size: 18px;
+        font-size: 19px;
     }
     .hidden {
         display: none;
@@ -25,8 +25,9 @@ permalink: /news/
 </style>
 
 [comment]: <> (paper, service, award, talk, contribution)
-<section>
+<section id="news-list">
   <h2>📢 News</h2>
+  <li>[2026/04/19] 📝 One survey paper is accepted by COMST journal. Congratulations to Xun Tang!</li>
   <li>[2026/02/24] 📝 Paper TernaInfer is accepted by DAC 2026. Congratulations to Jie Gu!</li>
   <li>[2026/02/15] 🙌 Invited as TPC member at ICCAD 2026.</li>
   <li>[2026/01/07] 📝 Paper <a href="https://ieeexplore.ieee.org/abstract/document/11344752">QuanTrans</a> is accepted by TPDS journal. Congratulations to Longshan!</li>
@@ -76,7 +77,7 @@ permalink: /news/
 </section>
 
 <script>
-  const allItems = document.querySelectorAll('li');
+  const allItems = document.querySelectorAll('#news-list li');
   const moreBtn = document.getElementById("more-btn");
   let expanded = false;
 
@@ -102,8 +103,7 @@ permalink: /news/
     }
   });
 
-  document.querySelectorAll('li').forEach(li => {
+  document.querySelectorAll('#news-list li').forEach(li => {
     li.innerHTML = li.innerHTML.replace(/\[(\d{4}\/\d{2})\/\d{2}\]/g, '<span class="news-date">$1</span>');
   });
 </script>
-

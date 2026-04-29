@@ -4,10 +4,19 @@ permalink: /services/
 ---
 <style>
     body {
-        font-size: 18px;
+        font-size: 19px;
     }
     .li{
         margin: 10px 0;
+    }
+    .hidden {
+        display: none;
+    }
+    #honors-more-btn {
+      margin-top: 10px;
+      cursor: pointer;
+      color: #a32133;
+      text-decoration: underline;
     }
     h5 {
       font-weight: 700;
@@ -61,7 +70,7 @@ permalink: /services/
       <li>IEEE International Conference on Quantum Computing and Engineering (QCE 2024)</li>
     </ul>
     <h2>Honors and Awards</h2>
-    <ul>
+    <ul id="honors-list">
         <li>Nov. 2025, National Youth Talent Program</li>
         <li>May 2024, Outstanding Graduate of East China Normal University</li>
         <li>Dec. 2023, Huaxin Scholarship (CNY 15,000), East China Normal University</li>
@@ -77,5 +86,33 @@ permalink: /services/
         <li>Nov. 2016, First-Class Scholarship for Excellent Students, NJAU</li>
         <li>Nov. 2016, National Scholarship</li>
     </ul>
+    <div id="honors-more-btn">Show More <span id="honors-arrow">&#9660;</span></div>
 </section>
 
+<script>
+  const honorsItems = document.querySelectorAll('#honors-list li');
+  const honorsMoreBtn = document.getElementById('honors-more-btn');
+  let honorsExpanded = false;
+
+  honorsItems.forEach((item, index) => {
+    if (index >= 10) {
+      item.classList.add('hidden');
+    }
+  });
+
+  honorsMoreBtn.addEventListener('click', () => {
+    honorsExpanded = !honorsExpanded;
+
+    honorsItems.forEach((item, index) => {
+      if (index >= 10) {
+        item.classList.toggle('hidden', !honorsExpanded);
+      }
+    });
+
+    if (honorsExpanded) {
+      honorsMoreBtn.innerHTML = 'Show Less <span id="honors-arrow">&#9650;</span>';
+    } else {
+      honorsMoreBtn.innerHTML = 'Show More <span id="honors-arrow">&#9660;</span>';
+    }
+  });
+</script>

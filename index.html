@@ -5,21 +5,25 @@ title: "Yuhong Song's Homepage"
 
 <style>
     body {
-        font-size: 18px;
+        font-size: 19px;
     }
 
-    .container {
+    .home-container {
         display: flex;
+        max-width: 1240px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 
     .left-column {
-        width: 30%;
+        width: 27%;
         text-align: center;
-        margin-right: 20px;
+        margin-right: 16px;
     }
 
     .right-column {
-        width: 88%;
+        flex: 1;
+        min-width: 0;
     }
 
     .profile-photo {
@@ -29,7 +33,7 @@ title: "Yuhong Song's Homepage"
     }
 
     .contact-info p {
-        font-size: 18px;
+        font-size: 19px;
         margin: 5px 0;
     }
 
@@ -40,13 +44,13 @@ title: "Yuhong Song's Homepage"
     }
 
     .bibliography p {
-        font-size: 18px;
+        font-size: 19px;
         margin: 10px 0;
         text-align: justify;
     }
 
     .bibliography ul {
-        font-size: 18px;
+        font-size: 19px;
         margin: 10px 0;
     }
 
@@ -57,10 +61,26 @@ title: "Yuhong Song's Homepage"
     h5 {
       font-weight: 700;
     }
+
+    @media (max-width: 768px) {
+        .home-container {
+            flex-direction: column;
+        }
+
+        .left-column,
+        .right-column {
+            width: 100%;
+        }
+
+        .left-column {
+            margin-right: 0;
+            margin-bottom: 20px;
+        }
+    }
 </style>
 
 <section>
-    <div class="container mt-2 mb-2">
+    <div class="container home-container mt-2 mb-2">
         <div class="left-column">
             <!-- Personal Information Section -->
             <img src="./image/YuhongSong2.png" alt="Your Photo" class="profile-photo">

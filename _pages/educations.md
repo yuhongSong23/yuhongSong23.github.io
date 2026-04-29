@@ -4,7 +4,7 @@ permalink: /educations/
 ---
 <style>
     body {
-        font-size: 18px;
+        font-size: 19px;
     }
     .education li{
         margin: 10px 0;
@@ -51,4 +51,3 @@ permalink: /educations/
     </ol>
 </section>
 </body>
-
