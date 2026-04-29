@@ -22,6 +22,11 @@ permalink: /news/
       color: gray;
       margin-right: 0.5em;
     }
+    #news-list li {
+      list-style-position: outside;
+      margin-left: 1.5em;
+      padding-left: 0.2em;
+    }
 </style>
 
 [comment]: <> (paper, service, award, talk, contribution)
