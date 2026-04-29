@@ -4,7 +4,7 @@ permalink: /services/
 ---
 <style>
     body {
-        font-size: 19px;
+        font-size: 20px;
     }
     .li{
         margin: 10px 0;

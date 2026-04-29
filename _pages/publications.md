@@ -4,7 +4,7 @@ permalink: /publications/
 ---
 <style>
     body {
-        font-size: 19px;
+        font-size: 20px;
     }
     .publications li{
         margin: 10px 0;
@@ -23,7 +23,7 @@ permalink: /publications/
 <section class="publications">
     <h2>
       Publications
-      <span style="font-size: 19px; color: gray;"> (*Corresponding Author)</span>
+      <span style="font-size: 20px; color: gray;"> (*Corresponding Author)</span>
     </h2>
     <ol>
         <h5>2026</h5>

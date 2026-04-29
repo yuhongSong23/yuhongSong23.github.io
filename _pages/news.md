@@ -4,7 +4,7 @@ permalink: /news/
 ---
 <style>
     body {
-        font-size: 19px;
+        font-size: 20px;
     }
     .hidden {
         display: none;
