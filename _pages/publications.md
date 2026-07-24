@@ -39,6 +39,9 @@ permalink: /publications/
         <li>
             Longshan Xu, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>, Qingfeng Zhuge. <a href="https://link.springer.com/article/10.1007/s11128-025-05028-6">''QMin: Quantum Circuit Minimization via Gate Fusions for Efficient State Vector Simulation.''</a> <em>Quantum Information Processing</em>, 2026, 25(6): 1-22. <strong>(SCI JCR Q1)</strong>
         </li>
+        <li>
+            Yipei Liu, Hanhan Wu, Junhuan Yang, <strong>Yuhong Song</strong>, Youzuo Lin, Weiwen Jiang, Lei Yang. ''PIDA: Physics-Informed Design Automation with a Novel Digital Twin.'' <em>In 2026 IEEE/ACM International Conference on Codesign of Embedded Systems (CODES)</em>, pp. xxx. ACM/IEEE, 2026. <strong>(CCF-B)</strong>
+        </li>
         <h5>2025</h5>
         <li>
             Jinyang Li, Samudra Dasgupta, <strong>Yuhong Song*</strong>, Lei Yang*, Travis Humble, Weiwen Jiang. <a href="https://ieeexplore.ieee.org/document/11096058">''Computational Performance Bounds Prediction in Quantum Computing with Unstable Noise.''</a> <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em>, 2025, 45(2): 969-982. <strong>(CCF-A)</strong>
@@ -118,5 +121,5 @@ permalink: /publications/
         </li>
     </ol>
     <br>
-    <p>(Update Date: 2026-04-29)</p>
+    <p>(Update Date: 2026-07-24)</p>
 </section>

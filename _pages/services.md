@@ -36,7 +36,7 @@ permalink: /services/
     <ul>
       <li>IEEE/ACM International Conference On Computer Aided Design (ICCAD 2025, 2026)</li>
       <li>IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2025)</li>
-      <li>IEEE International Conference on Quantum Computing and Engineering (QCE 2024, 2025)</li>
+      <li>IEEE International Conference on Quantum Computing and Engineering (QCE 2024, 2025, 2026)</li>
     </ul>
     <h5>Academic Conference Organization</h5>
     <ul>
@@ -60,7 +60,7 @@ permalink: /services/
       <li>International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2024)</li>
       <li>AAAI Conference on Artificial Intelligence (AAAI 2021)</li>
       <li>Design Automation Conference (DAC 2021, 2022, 2025)</li>
-      <li>IEEE/ACM International Conference On Computer Aided Design (ICCAD 2025)</li>
+      <li>IEEE/ACM International Conference On Computer Aided Design (ICCAD 2025, 2026)</li>
       <li>Design, Automation and Test in Europe Conference (DATE 2021)</li>
       <li>International Conference on Computer Design (ICCD 2020)</li>
       <li>ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2021)</li>
