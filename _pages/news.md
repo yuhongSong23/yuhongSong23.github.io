@@ -32,6 +32,7 @@ permalink: /news/
 [comment]: <> (paper, service, award, talk, contribution)
 <section id="news-list">
   <h2>📢 News</h2>
+  <li>[2026/08/09] 🎤 Talk at Advanced System Symposium, Shanghai.
   <li>[2026/07/16] 📝 Paper PIDA is accepted by CODES 2026. Congratulations to Yipei!</li>
   <li>[2026/04/19] 📝 One survey paper is accepted by IEEE Communications Surveys & Tutorials. Congratulations to Xun Tang!</li>
   <li>[2026/02/24] 📝 Paper TernaInfer is accepted by DAC 2026. Congratulations to Jie Gu!</li>

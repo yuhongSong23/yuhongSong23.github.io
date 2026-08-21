@@ -1,0 +1,51 @@
+{"kind":"deck","id":"pr/kfhdwx","name":"Deck"}
+{"kind":"layout","layoutId":"03d8c4f1-44b0-42f2-9bb1-5de71efe19c8","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"a9b80cdb-f73c-4c39-9a4f-58e1daab7b09","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/ced9tk","slide":1,"title":"实验结果 1：端到端 AutoQEC 是否同时保持能量和降低复杂度？","textShapes":7}
+{"kind":"textbox","id":"sh/gzi1obm1","slide":1,"name":"title","text":"实验结果 1：端到端 AutoQEC 是否同时保持能量和降低复杂度？","textPreview":"实验结果 1：端到端 AutoQEC 是否同时保持能量和降低复杂度？","textChars":34,"textLines":1,"bbox":[56,34,1168,46]}
+{"kind":"shape","id":"sh/fy9kf65g","slide":1,"name":"divider-88","bbox":[56,88,1168,1.2]}
+{"kind":"textbox","id":"sh/ex0jm14v","slide":1,"name":"lead","text":"这组实验验证完整 pipeline：先用 AutoQEC-I 得到 FT gateset，再用 AutoQEC-II 搜索 VQE circuit，最后和传统分解方法对比。","textPreview":"这组实验验证完整 pipeline：先用 AutoQEC-I 得到 FT gateset，再用 AutoQEC-II 搜索 VQE circuit，最后和传统分解方法对比。","textChars":86,"textLines":1,"bbox":[72,108,1095,46]}
+{"kind":"textbox","id":"sh/twr2dwna","slide":1,"name":"setting-label","text":"实验设置","textPreview":"实验设置","textChars":4,"textLines":1,"bbox":[72,166,150,25]}
+{"kind":"textbox","id":"sh/svi1krmp","slide":1,"name":"setting","text":"实验覆盖两个 QEC codes 和三个 VQE 分子任务 H2、LiH、CO2；指标包括 VQE energy、门数 #Gate/#DG 和逻辑层 space-time overhead。","textPreview":"实验覆盖两个 QEC codes 和三个 VQE 分子任务 H2、LiH、CO2；指标包括 VQE energy、门数 #Gate/#DG 和逻辑层 space-time overhead。","textChars":95,"textLines":1,"bbox":[72,194,1090,52]}
+{"kind":"shape","id":"sh/ru9kbm54","slide":1,"name":"divider-610","bbox":[56,610,1168,1.2]}
+{"kind":"textbox","id":"sh/6tgjih4z","slide":1,"name":"conclusion-label","text":"实验结论","textPreview":"实验结论","textChars":4,"textLines":1,"bbox":[72,624,130,25]}
+{"kind":"textbox","id":"sh/dsb2pg3u","slide":1,"name":"conclusion","text":"AutoQEC 的 energy 接近 reference，同时把门数和 STO 从几十万级降到几十级。核心收益来自：不再把 VQE 线路硬分解，而是直接搜索 FT-friendly circuit。","textPreview":"AutoQEC 的 energy 接近 reference，同时把门数和 STO 从几十万级降到几十级。核心收益来自：不再把 VQE 线路硬分解，而是直接搜索 FT-friendly circuit。","textChars":100,"textLines":1,"bbox":[206,622,958,60]}
+{"kind":"textbox","id":"sh/6l8nq5k3","slide":1,"name":"table-caption","text":"表：端到端 VQE 能量、门数和逻辑层 STO 对比。Energy 越低越好，#Gate/#DG 和 STO 越低越好。","textPreview":"表：端到端 VQE 能量、门数和逻辑层 STO 对比。Energy 越低越好，#Gate/#DG 和 STO 越低越好。","textChars":60,"textLines":1,"bbox":[120,544,1040,24]}
+{"kind":"table","id":"tb/pofaxgf2","slide":1,"name":"","rows":5,"cols":5,"preview":"方法 | 对象 | Energy H2 / LiH / CO2 | #Gate 或 #DG | STO","bbox":[92,282,1096,250]}
+{"kind":"notes","id":"nt/ced9tk","slide":1,"text":""}
+{"kind":"slide","id":"sl/gr0hb3","slide":2,"title":"实验结果 2：AutoQEC-I 是否比 NF/HN 更稳定地训练 FT gates？","textShapes":7}
+{"kind":"textbox","id":"sh/4byho7m1","slide":2,"name":"title","text":"实验结果 2：AutoQEC-I 是否比 NF/HN 更稳定地训练 FT gates？","textPreview":"实验结果 2：AutoQEC-I 是否比 NF/HN 更稳定地训练 FT gates？","textChars":43,"textLines":1,"bbox":[56,34,1168,46]}
+{"kind":"shape","id":"sh/3apgf2lg","slide":2,"name":"divider-88","bbox":[56,88,1168,1.2]}
+{"kind":"textbox","id":"sh/i9gzmx4v","slide":2,"name":"lead","text":"这组实验单独验证 FT gate synthesis：比较 noise-free training、hardware-specific noisy training 和 error-bounded training。","textPreview":"这组实验单独验证 FT gate synthesis：比较 noise-free training、hardware-specific noisy training 和 error-bounded training。","textChars":108,"textLines":1,"bbox":[72,108,1095,46]}
+{"kind":"textbox","id":"sh/h8nyds3a","slide":2,"name":"setting-label","text":"实验设置","textPreview":"实验设置","textChars":4,"textLines":1,"bbox":[72,166,150,25]}
+{"kind":"textbox","id":"sh/gnehknm5","slide":2,"name":"setting","text":"在 [[7,1,3]] code 上评估 H/S gates，在 [[5,1,3]] code 上评估 HS/HS† gates；不同真实 backend noise profile 下用 AFE 衡量 FT gate 准确性。","textPreview":"在 [[7,1,3]] code 上评估 H/S gates，在 [[5,1,3]] code 上评估 HS/HS† gates；不同真实 backend noise profile 下用 AFE 衡量 FT gate 准确性。","textChars":114,"textLines":1,"bbox":[72,194,1090,52]}
+{"kind":"shape","id":"sh/vm5gb25k","slide":2,"name":"divider-610","bbox":[56,610,1168,1.2]}
+{"kind":"textbox","id":"sh/ulwzix4z","slide":2,"name":"conclusion-label","text":"实验结论","textPreview":"实验结论","textChars":4,"textLines":1,"bbox":[72,624,130,25]}
+{"kind":"textbox","id":"sh/14ripw3u","slide":2,"name":"conclusion","text":"NF 会留下 virtual error；HN 只在特定噪声强度下有效，低噪声和高噪声都会失稳。EB 通过 bounded error injection 保持更稳定的 FT gate 训练。","textPreview":"NF 会留下 virtual error；HN 只在特定噪声强度下有效，低噪声和高噪声都会失稳。EB 通过 bounded error injection 保持更稳定的 FT gate 训练。","textChars":96,"textLines":1,"bbox":[206,622,958,60]}
+{"kind":"textbox","id":"sh/q5w3uxsv","slide":2,"name":"fig9-caption","text":"图：AutoQEC-I 与 NF/HN 在不同 QEC code、不同 gate、不同噪声条件下的 AFE 对比。","textPreview":"图：AutoQEC-I 与 NF/HN 在不同 QEC code、不同 gate、不同噪声条件下的 AFE 对比。","textChars":57,"textLines":1,"bbox":[130,586,1020,20]}
+{"kind":"image","id":"im/lcn6d4nq","slide":2,"name":"","alt":"Figure 9: AutoQEC-I compared with NF and HN training methods","bbox":[110,272,1060,318]}
+{"kind":"notes","id":"nt/gr0hb3","slide":2,"text":""}
+{"kind":"slide","id":"sl/21e0wl","slide":3,"title":"实验结果 3：AutoQEC-II 是否比随机搜索更会找 VQE circuit？","textShapes":7}
+{"kind":"textbox","id":"sh/bylgb65o","slide":3,"name":"title","text":"实验结果 3：AutoQEC-II 是否比随机搜索更会找 VQE circuit？","textPreview":"实验结果 3：AutoQEC-II 是否比随机搜索更会找 VQE circuit？","textChars":41,"textLines":1,"bbox":[56,34,1168,46]}
+{"kind":"shape","id":"sh/wzeh4b6t","slide":3,"name":"divider-88","bbox":[56,88,1168,1.2]}
+{"kind":"textbox","id":"sh/x0nydwne","slide":3,"name":"lead","text":"这组实验验证 circuit architecture search：AutoQEC-II 用 evolutionary search，在 AutoQEC-I 给出的 FT gateset 中找低门数、低能量的 VQE circuit。","textPreview":"这组实验验证 circuit architecture search：AutoQEC-II 用 evolutionary search，在 AutoQEC-I 给出的 FT gateset 中找低门数、低能量的 VQE circuit。","textChars":118,"textLines":1,"bbox":[72,108,1095,46]}
+{"kind":"textbox","id":"sh/m9czyhor","slide":3,"name":"setting-label","text":"实验设置","textPreview":"实验设置","textChars":4,"textLines":1,"bbox":[72,166,150,25]}
+{"kind":"textbox","id":"sh/nalg7mpc","slide":3,"name":"setting","text":"对两个 QEC codes 和三个分子任务进行搜索；AutoQEC-II 运行 150 episodes、每代 100 genes，并与 15k random search 和 30k random search 比较。","textPreview":"对两个 QEC codes 和三个分子任务进行搜索；AutoQEC-II 运行 150 episodes、每代 100 genes，并与 15k random search 和 30k random search 比较。","textChars":110,"textLines":1,"bbox":[72,194,1090,52]}
+{"kind":"shape","id":"sh/obuh0r6x","slide":3,"name":"divider-610","bbox":[56,610,1168,1.2]}
+{"kind":"textbox","id":"sh/9c3y9wni","slide":3,"name":"conclusion-label","text":"实验结论","textPreview":"实验结论","textChars":4,"textLines":1,"bbox":[72,624,130,25]}
+{"kind":"textbox","id":"sh/e5sfuhov","slide":3,"name":"conclusion","text":"AutoQEC-II 找到的解通常同时靠近 reference energy 且 gate count 更低。随机搜索即使扩大到 30k samples，也很难稳定超过 evolutionary search。","textPreview":"AutoQEC-II 找到的解通常同时靠近 reference energy 且 gate count 更低。随机搜索即使扩大到 30k samples，也很难稳定超过 evolutionary search。","textChars":105,"textLines":1,"bbox":[206,622,958,60]}
+{"kind":"textbox","id":"sh/vapor210","slide":3,"name":"fig10-caption","text":"图：蓝点为随机搜索空间，绿色星号为 AutoQEC-II 结果；横轴门数越少越好，纵轴 energy 越低越好。","textPreview":"图：蓝点为随机搜索空间，绿色星号为 AutoQEC-II 结果；横轴门数越少越好，纵轴 energy 越低越好。","textChars":56,"textLines":1,"bbox":[150,586,980,20]}
+{"kind":"image","id":"im/25szqh4b","slide":3,"name":"","alt":"Figure 10: search space exploration for AutoQEC-II versus random search","bbox":[146,270,988,318]}
+{"kind":"notes","id":"nt/21e0wl","slide":3,"text":""}
+{"kind":"slide","id":"sl/ahzcda","slide":4,"title":"实验结果 4：真正编码成 FT circuit 后，性能能否保持？","textShapes":7}
+{"kind":"textbox","id":"sh/147u9cn2","slide":4,"name":"title","text":"实验结果 4：真正编码成 FT circuit 后，性能能否保持？","textPreview":"实验结果 4：真正编码成 FT circuit 后，性能能否保持？","textChars":33,"textLines":1,"bbox":[56,34,1168,46]}
+{"kind":"shape","id":"sh/e1gvexor","slide":4,"name":"divider-88","bbox":[56,88,1168,1.2]}
+{"kind":"textbox","id":"sh/f2pc725w","slide":4,"name":"lead","text":"最后一组实验把搜索得到的 H2 logical VQE circuit 编码成 QEC-based FT circuit，用来验证 AutoQEC 的端到端实现可行性。","textPreview":"最后一组实验把搜索得到的 H2 logical VQE circuit 编码成 QEC-based FT circuit，用来验证 AutoQEC 的端到端实现可行性。","textChars":84,"textLines":1,"bbox":[72,108,1095,46]}
+{"kind":"textbox","id":"sh/o7ydk76t","slide":4,"name":"setting-label","text":"实验设置","textPreview":"实验设置","textChars":4,"textLines":1,"bbox":[72,166,150,25]}
+{"kind":"textbox","id":"sh/p8rudcne","slide":4,"name":"setting","text":"由于 encoded FT circuit 仿真成本很高，实验只在 H2 上实现；比较 logVQE 和 AutoQEC-Implem. 的 qubits、depth、STO、#Gates 和 energy。","textPreview":"由于 encoded FT circuit 仿真成本很高，实验只在 H2 上实现；比较 logVQE 和 AutoQEC-Implem. 的 qubits、depth、STO、#Gates 和 energy。","textChars":104,"textLines":1,"bbox":[72,194,1090,52]}
+{"kind":"shape","id":"sh/25gvihon","slide":4,"name":"divider-610","bbox":[56,610,1168,1.2]}
+{"kind":"textbox","id":"sh/n6pcb258","slide":4,"name":"conclusion-label","text":"实验结论","textPreview":"实验结论","textChars":4,"textLines":1,"bbox":[72,624,130,25]}
+{"kind":"textbox","id":"sh/4bet8n69","slide":4,"name":"conclusion","text":"QEC 编码带来明显资源开销，但 AutoQEC-Implem. 与 logVQE 得到相同 energy -1.837。说明在 code 能力范围内，FT 实现可以保持应用性能。","textPreview":"QEC 编码带来明显资源开销，但 AutoQEC-Implem. 与 logVQE 得到相同 energy -1.837。说明在 code 能力范围内，FT 实现可以保持应用性能。","textChars":90,"textLines":1,"bbox":[206,622,958,60]}
+{"kind":"textbox","id":"sh/tkrqtsby","slide":4,"name":"table-caption","text":"表：H2 的 logical VQE 与 QEC-encoded AutoQEC implementation 对比。","textPreview":"表：H2 的 logical VQE 与 QEC-encoded AutoQEC implementation 对比。","textChars":59,"textLines":1,"bbox":[250,578,780,24]}
+{"kind":"table","id":"tb/cnax8rqp","slide":4,"name":"","rows":11,"cols":4,"preview":"方法 | 指标 | [[7,1,3]] | [[5,1,3]]","bbox":[250,270,780,302]}
+{"kind":"notes","id":"nt/ahzcda","slide":4,"text":""}

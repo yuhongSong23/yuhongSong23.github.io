@@ -1,0 +1,130 @@
+{"kind":"deck","id":"pr/ukg9dm","name":"Deck"}
+{"kind":"layout","layoutId":"70af1d67-6251-4e0d-9687-82ae43b63767","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"177d811a-b560-4510-b72e-687cc2eac4d9","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/t1994z","slide":1,"title":"④ noise-aware training 的有效噪声范围能否统一？","textShapes":9}
+{"kind":"textbox","id":"sh/bitsr6d8","slide":1,"name":"title","text":"④ noise-aware training 的有效噪声范围能否统一？","textPreview":"④ noise-aware training 的有效噪声范围能否统一？","textChars":35,"textLines":1,"bbox":[56,34,1168,46]}
+{"kind":"shape","id":"sh/cj2t0bet","slide":1,"name":"divider-88","bbox":[56,88,1168,1.2]}
+{"kind":"textbox","id":"sh/xkbatgve","slide":1,"name":"transition","text":"上一页发现：把噪声放进训练有希望，但只在较高噪声水平 16-17 下表现好。因此下一步要问，这个噪声水平能不能稳定迁移到其他 gate。","textPreview":"上一页发现：把噪声放进训练有希望，但只在较高噪声水平 16-17 下表现好。因此下一步要问，这个噪声水平能不能稳定迁移到其他 gate。","textChars":68,"textLines":1,"bbox":[72,108,1095,48]}
+{"kind":"textbox","id":"sh/ylkb2lwz","slide":1,"name":"rq-label","text":"产生的 Research Question","textPreview":"产生的 Research Question","textChars":21,"textLines":1,"bbox":[72,168,260,26]}
+{"kind":"textbox","id":"sh/zmtsvqdk","slide":1,"name":"rq","text":"RQ4：训练时需要多少噪声，才能可靠训练出准确的 FT gate？","textPreview":"RQ4：训练时需要多少噪声，才能可靠训练出准确的 FT gate？","textChars":33,"textLines":1,"bbox":[72,195,1090,34]}
+{"kind":"textbox","id":"sh/kn2t4bep","slide":1,"name":"experiment-label","text":"实验设计","textPreview":"实验设计","textChars":4,"textLines":1,"bbox":[72,244,160,25]}
+{"kind":"textbox","id":"sh/lobaxgva","slide":1,"name":"experiment","text":"先用同样的噪声水平 16 和 17 训练 H gate 与 S gate；再对 S gate 扫描训练 error probability，并在无噪声和 1PE 环境下测试 AFE。","textPreview":"先用同样的噪声水平 16 和 17 训练 H gate 与 S gate；再对 S gate 扫描训练 error probability，并在无噪声和 1PE 环境下测试 AFE。","textChars":91,"textLines":1,"bbox":[72,271,1090,44]}
+{"kind":"shape","id":"sh/epgrqhwf","slide":1,"name":"divider-610","bbox":[56,610,1168,1.2]}
+{"kind":"textbox","id":"sh/fqpsjmd0","slide":1,"name":"analysis-label","text":"结果分析","textPreview":"结果分析","textChars":4,"textLines":1,"bbox":[72,624,130,25]}
+{"kind":"textbox","id":"sh/zmxsbqtk","slide":1,"name":"analysis","text":"同一噪声水平对 H gate 有效，但对 S gate 失效；S gate 只有中间噪声范围可用。噪声不足会留下 virtual error，噪声过多会破坏训练。","textPreview":"同一噪声水平对 H gate 有效，但对 S gate 失效；S gate 只有中间噪声范围可用。噪声不足会留下 virtual error，噪声过多会破坏训练。","textChars":81,"textLines":1,"bbox":[206,622,958,60]}
+{"kind":"textbox","id":"sh/lofad0bq","slide":1,"name":"figure-caption","text":"图：左侧比较 H/S gate 在同一噪声水平下的表现；右侧扫描 S gate 的训练噪声概率。","textPreview":"图：左侧比较 H/S gate 在同一噪声水平下的表现；右侧扫描 S gate 的训练噪声概率。","textChars":48,"textLines":1,"bbox":[150,575,980,24]}
+{"kind":"image","id":"im/1cz298ri","slide":1,"name":"","alt":"Figure 6: noise-aware training performance under same noise levels and different error probabilities","bbox":[128,324,1024,248]}
+{"kind":"notes","id":"nt/t1994z","slide":1,"text":""}
+{"kind":"slide","id":"sl/lzjfic","slide":2,"title":"⑥ 如果走通用门分解，FT 线路开销会有多大？","textShapes":52}
+{"kind":"textbox","id":"sh/kbe9w7ih","slide":2,"name":"title","text":"⑥ 如果走通用门分解，FT 线路开销会有多大？","textPreview":"⑥ 如果走通用门分解，FT 线路开销会有多大？","textChars":23,"textLines":1,"bbox":[56,34,1168,46]}
+{"kind":"shape","id":"sh/zalsn2hw","slide":2,"name":"divider-88","bbox":[56,88,1168,1.2]}
+{"kind":"textbox","id":"sh/y9crux0r","slide":2,"name":"transition","text":"AutoQEC-I 可以得到一组可用 FT gates，但 Eastin-Knill 定理说明单个 QEC code 没有 universal FT gateset。一个自然想法是：先把任意逻辑线路分解到通用门集。","textPreview":"AutoQEC-I 可以得到一组可用 FT gates，但 Eastin-Knill 定理说明单个 QEC code 没有 universal FT gateset。一个自然想法是：先把任意逻辑线路分解到通用门集。","textChars":107,"textLines":1,"bbox":[72,108,1095,48]}
+{"kind":"textbox","id":"sh/tgnatcze","slide":2,"name":"rq-label","text":"产生的 Research Question","textPreview":"产生的 Research Question","textChars":21,"textLines":1,"bbox":[72,168,260,26]}
+{"kind":"textbox","id":"sh/8fe907yt","slide":2,"name":"rq","text":"RQ5：如果能支持 universal FT gateset，能否直接用传统量子编译实现任意逻辑线路？","textPreview":"RQ5：如果能支持 universal FT gateset，能否直接用传统量子编译实现任意逻辑线路？","textChars":51,"textLines":1,"bbox":[72,195,1090,34]}
+{"kind":"textbox","id":"sh/7e5sr2h8","slide":2,"name":"experiment-label","text":"实验设计","textPreview":"实验设计","textChars":4,"textLines":1,"bbox":[72,244,160,25]}
+{"kind":"textbox","id":"sh/6dwryxgn","slide":2,"name":"experiment","text":"用 Solovay-Kitaev 分解单个 RZ gate，并设置 1e-1、1e-2、1e-3 三种近似误差；再与 Gridsynth 和 small-angle rotation 的分解数量对比。","textPreview":"用 Solovay-Kitaev 分解单个 RZ gate，并设置 1e-1、1e-2、1e-3 三种近似误差；再与 Gridsynth 和 small-angle rotation 的分解数量对比。","textChars":100,"textLines":1,"bbox":[72,271,1090,44]}
+{"kind":"shape","id":"sh/pk3qh8zu","slide":2,"name":"divider-610","bbox":[56,610,1168,1.2]}
+{"kind":"textbox","id":"sh/oja9oni9","slide":2,"name":"analysis-label","text":"结果分析","textPreview":"结果分析","textChars":4,"textLines":1,"bbox":[72,624,130,25]}
+{"kind":"textbox","id":"sh/a1k369wn","slide":2,"name":"analysis","text":"即使只分解单个 RZ gate，Solovay-Kitaev 在 1e-3 误差下也需要约 2.4-2.6 万个门和 6.5-7.2 千个 T gate。通用分解会把 FTQC 线路复杂度放大到难以承受。","textPreview":"即使只分解单个 RZ gate，Solovay-Kitaev 在 1e-3 误差下也需要约 2.4-2.6 万个门和 6.5-7.2 千个 T gate。通用分解会把 FTQC 线路复杂度放大到难以承受。","textChars":102,"textLines":1,"bbox":[206,622,958,60]}
+{"kind":"textbox","id":"sh/w3ml8zet","slide":2,"name":"figure-caption","text":"图：RZ gate 在不同近似误差下的分解门数。","textPreview":"图：RZ gate 在不同近似误差下的分解门数。","textChars":24,"textLines":1,"bbox":[100,540,490,24]}
+{"kind":"shape","id":"sh/x4v2h4fe","slide":2,"name":"table-cell-0-0","bbox":[628,344,136,31]}
+{"kind":"textbox","id":"sh/y543a9wz","slide":2,"name":"table-text-0-0","text":"方法","textPreview":"方法","textChars":2,"textLines":1,"bbox":[632,349,128,25]}
+{"kind":"shape","id":"sh/j6dkjex4","slide":2,"name":"table-cell-0-1","bbox":[764,344,62,31]}
+{"kind":"textbox","id":"sh/k7mlcjep","slide":2,"name":"table-text-0-1","text":"指标","textPreview":"指标","textChars":2,"textLines":1,"bbox":[768,349,54,25]}
+{"kind":"shape","id":"sh/l8v2lofa","slide":2,"name":"table-cell-0-2","bbox":[826,344,66,31]}
+{"kind":"textbox","id":"sh/6t43etwv","slide":2,"name":"table-text-0-2","text":"π/100","textPreview":"π/100","textChars":5,"textLines":1,"bbox":[830,349,58,25]}
+{"kind":"shape","id":"sh/7ux4nyxg","slide":2,"name":"table-cell-0-3","bbox":[892,344,80,31]}
+{"kind":"textbox","id":"sh/3yxkbyto","slide":2,"name":"table-text-0-3","text":"10π/100","textPreview":"10π/100","textChars":7,"textLines":1,"bbox":[896,349,72,25]}
+{"kind":"shape","id":"sh/ixoj2tc3","slide":2,"name":"table-cell-0-4","bbox":[972,344,80,31]}
+{"kind":"textbox","id":"sh/50f2dobe","slide":2,"name":"table-text-0-4","text":"20π/100","textPreview":"20π/100","textChars":7,"textLines":1,"bbox":[976,349,72,25]}
+{"kind":"shape","id":"sh/4z6143u9","slide":2,"name":"table-cell-0-5","bbox":[1052,344,80,31]}
+{"kind":"textbox","id":"sh/vaxk7etc","slide":2,"name":"table-text-0-5","text":"30π/100","textPreview":"30π/100","textChars":7,"textLines":1,"bbox":[1056,349,72,25]}
+{"kind":"shape","id":"sh/u94jy9cr","slide":2,"name":"table-cell-0-6","bbox":[1132,344,80,31]}
+{"kind":"textbox","id":"sh/hwf29obi","slide":2,"name":"table-text-0-6","text":"40π/100","textPreview":"40π/100","textChars":7,"textLines":1,"bbox":[1136,349,72,25]}
+{"kind":"shape","id":"sh/gv610jux","slide":2,"name":"table-cell-1-0","bbox":[628,375,136,31]}
+{"kind":"textbox","id":"sh/76dk3edg","slide":2,"name":"table-text-1-0","text":"Solovay-Kitaev","textPreview":"Solovay-Kitaev","textChars":14,"textLines":1,"bbox":[632,380,128,25]}
+{"kind":"shape","id":"sh/654ju9cv","slide":2,"name":"table-cell-1-1","bbox":[764,375,62,31]}
+{"kind":"textbox","id":"sh/wb2h4fat","slide":2,"name":"table-text-1-1","text":"#DG","textPreview":"#DG","textChars":3,"textLines":1,"bbox":[768,380,54,25]}
+{"kind":"shape","id":"sh/xcbydkry","slide":2,"name":"table-cell-1-2","bbox":[826,375,66,31]}
+{"kind":"textbox","id":"sh/a90z25sn","slide":2,"name":"table-text-1-2","text":"24465","textPreview":"24465","textChars":5,"textLines":1,"bbox":[830,380,58,25]}
+{"kind":"shape","id":"sh/ba9gba98","slide":2,"name":"table-cell-1-3","bbox":[892,375,80,31]}
+{"kind":"textbox","id":"sh/kf2h8fap","slide":2,"name":"table-text-1-3","text":"24858","textPreview":"24858","textChars":5,"textLines":1,"bbox":[896,380,72,25]}
+{"kind":"shape","id":"sh/lgbi1kra","slide":2,"name":"table-cell-1-4","bbox":[972,375,80,31]}
+{"kind":"textbox","id":"sh/ydkz65sj","slide":2,"name":"table-text-1-4","text":"24026","textPreview":"24026","textChars":5,"textLines":1,"bbox":[976,380,72,25]}
+{"kind":"shape","id":"sh/jetgza94","slide":2,"name":"table-cell-1-5","bbox":[1052,375,80,31]}
+{"kind":"textbox","id":"sh/0jihwval","slide":2,"name":"table-text-1-5","text":"25534","textPreview":"25534","textChars":5,"textLines":1,"bbox":[1056,380,72,25]}
+{"kind":"shape","id":"sh/1kry50b6","slide":2,"name":"table-cell-1-6","bbox":[1132,375,80,31]}
+{"kind":"textbox","id":"sh/t03q5gra","slide":2,"name":"table-text-1-6","text":"24207","textPreview":"24207","textChars":5,"textLines":1,"bbox":[1136,380,72,25]}
+{"kind":"shape","id":"sh/szu9wvap","slide":2,"name":"table-cell-2-0","bbox":[628,406,136,31]}
+{"kind":"textbox","id":"sh/7y183qt4","slide":2,"name":"table-text-2-0","text":"Solovay-Kitaev","textPreview":"Solovay-Kitaev","textChars":14,"textLines":1,"bbox":[632,411,128,25]}
+{"kind":"shape","id":"sh/6xsrulsj","slide":2,"name":"table-cell-2-1","bbox":[764,406,62,31]}
+{"kind":"textbox","id":"sh/5cjq1gbe","slide":2,"name":"table-text-2-1","text":"#T","textPreview":"#T","textChars":2,"textLines":1,"bbox":[768,411,54,25]}
+{"kind":"shape","id":"sh/kba98bat","slide":2,"name":"table-cell-2-2","bbox":[826,406,66,31]}
+{"kind":"textbox","id":"sh/ja18z6t8","slide":2,"name":"table-text-2-2","text":"6704","textPreview":"6704","textChars":4,"textLines":1,"bbox":[830,411,58,25]}
+{"kind":"shape","id":"sh/i9s761sn","slide":2,"name":"table-cell-2-3","bbox":[892,406,80,31]}
+{"kind":"textbox","id":"sh/x8jqxwb2","slide":2,"name":"table-text-2-3","text":"7256","textPreview":"7256","textChars":4,"textLines":1,"bbox":[896,411,72,25]}
+{"kind":"shape","id":"sh/w7qp4bah","slide":2,"name":"table-cell-2-4","bbox":[972,406,80,31]}
+{"kind":"textbox","id":"sh/mdonyx8f","slide":2,"name":"table-text-2-4","text":"6511","textPreview":"6511","textChars":4,"textLines":1,"bbox":[976,411,72,25]}
+{"kind":"shape","id":"sh/nexo7290","slide":2,"name":"table-cell-2-5","bbox":[1052,406,80,31]}
+{"kind":"textbox","id":"sh/of6507ql","slide":2,"name":"table-text-2-5","text":"6985","textPreview":"6985","textChars":4,"textLines":1,"bbox":[1056,411,72,25]}
+{"kind":"shape","id":"sh/9gz69cr6","slide":2,"name":"table-cell-2-6","bbox":[1132,406,80,31]}
+{"kind":"textbox","id":"sh/e9onux8j","slide":2,"name":"table-text-2-6","text":"6686","textPreview":"6686","textChars":4,"textLines":1,"bbox":[1136,411,72,25]}
+{"kind":"shape","id":"sh/zaxo329o","slide":2,"name":"table-cell-3-0","bbox":[628,437,136,31]}
+{"kind":"textbox","id":"sh/0b65w7q9","slide":2,"name":"table-text-3-0","text":"Gridsynth","textPreview":"Gridsynth","textChars":9,"textLines":1,"bbox":[632,442,128,25]}
+{"kind":"shape","id":"sh/1cf65cru","slide":2,"name":"table-cell-3-1","bbox":[764,437,62,31]}
+{"kind":"textbox","id":"sh/ql4nqd87","slide":2,"name":"table-text-3-1","text":"#DG","textPreview":"#DG","textChars":3,"textLines":1,"bbox":[768,442,54,25]}
+{"kind":"shape","id":"sh/rmd4zi9s","slide":2,"name":"table-cell-3-2","bbox":[826,437,66,31]}
+{"kind":"textbox","id":"sh/fqtk7epk","slide":2,"name":"table-text-3-2","text":"263","textPreview":"263","textChars":3,"textLines":1,"bbox":[830,442,58,25]}
+{"kind":"shape","id":"sh/upk3ytoz","slide":2,"name":"table-cell-3-3","bbox":[892,437,80,31]}
+{"kind":"textbox","id":"sh/hsb29o7q","slide":2,"name":"table-text-3-3","text":"267","textPreview":"267","textChars":3,"textLines":1,"bbox":[896,442,72,25]}
+{"kind":"shape","id":"sh/gr2l0j65","slide":2,"name":"table-cell-3-4","bbox":[972,437,80,31]}
+{"kind":"textbox","id":"sh/3etkbypg","slide":2,"name":"table-text-3-4","text":"281","textPreview":"281","textChars":3,"textLines":1,"bbox":[976,442,72,25]}
+{"kind":"shape","id":"sh/2tk32tob","slide":2,"name":"table-cell-3-5","bbox":[1052,437,80,31]}
+{"kind":"textbox","id":"sh/pgb2d87m","slide":2,"name":"table-text-3-5","text":"286","textPreview":"286","textChars":3,"textLines":1,"bbox":[1056,442,72,25]}
+{"kind":"shape","id":"sh/4f2l4361","slide":2,"name":"table-cell-3-6","bbox":[1132,437,80,31]}
+{"kind":"textbox","id":"sh/ji9kzupc","slide":2,"name":"table-text-3-6","text":"258","textPreview":"258","textChars":3,"textLines":1,"bbox":[1136,442,72,25]}
+{"kind":"shape","id":"sh/ixgjqpor","slide":2,"name":"table-cell-4-0","bbox":[628,468,136,31]}
+{"kind":"textbox","id":"sh/83eh0vmp","slide":2,"name":"table-text-4-0","text":"Gridsynth","textPreview":"Gridsynth","textChars":9,"textLines":1,"bbox":[632,473,128,25]}
+{"kind":"shape","id":"sh/9oni90na","slide":2,"name":"table-cell-4-1","bbox":[764,468,62,31]}
+{"kind":"textbox","id":"sh/m1wzy54j","slide":2,"name":"table-text-4-1","text":"#T","textPreview":"#T","textChars":2,"textLines":1,"bbox":[768,473,54,25]}
+{"kind":"shape","id":"sh/n2507q54","slide":2,"name":"table-cell-4-2","bbox":[826,468,66,31]}
+{"kind":"textbox","id":"sh/0zehwvmt","slide":2,"name":"table-text-4-2","text":"104","textPreview":"104","textChars":3,"textLines":1,"bbox":[830,473,58,25]}
+{"kind":"shape","id":"sh/10ni50ny","slide":2,"name":"table-cell-4-3","bbox":[892,468,80,31]}
+{"kind":"textbox","id":"sh/exczul4n","slide":2,"name":"table-text-4-3","text":"104","textPreview":"104","textChars":3,"textLines":1,"bbox":[896,473,72,25]}
+{"kind":"shape","id":"sh/zyl03q58","slide":2,"name":"table-cell-4-4","bbox":[972,468,80,31]}
+{"kind":"textbox","id":"sh/kvy18fmx","slide":2,"name":"table-text-4-4","text":"106","textPreview":"106","textChars":3,"textLines":1,"bbox":[976,473,72,25]}
+{"kind":"shape","id":"sh/5w7ihkni","slide":2,"name":"table-cell-4-5","bbox":[1052,468,80,31]}
+{"kind":"textbox","id":"sh/twbe1wvm","slide":2,"name":"table-text-4-5","text":"106","textPreview":"106","textChars":3,"textLines":1,"bbox":[1056,473,72,25]}
+{"kind":"shape","id":"sh/svid8re1","slide":2,"name":"table-cell-4-6","bbox":[1132,468,80,31]}
+{"kind":"textbox","id":"sh/ru9czmdw","slide":2,"name":"table-text-4-6","text":"104","textPreview":"104","textChars":3,"textLines":1,"bbox":[1136,473,72,25]}
+{"kind":"shape","id":"sh/6t0v6hwb","slide":2,"name":"table-cell-5-0","bbox":[628,499,136,31]}
+{"kind":"textbox","id":"sh/10be5gvy","slide":2,"name":"table-text-5-0","text":"Small-Angle","textPreview":"Small-Angle","textChars":11,"textLines":1,"bbox":[632,504,128,25]}
+{"kind":"shape","id":"sh/gz2dcbed","slide":2,"name":"table-cell-5-1","bbox":[764,499,62,31]}
+{"kind":"textbox","id":"sh/fytw36ds","slide":2,"name":"table-text-5-1","text":"#DG","textPreview":"#DG","textChars":3,"textLines":1,"bbox":[768,504,54,25]}
+{"kind":"shape","id":"sh/exkva1w7","slide":2,"name":"table-cell-5-2","bbox":[826,499,66,31]}
+{"kind":"textbox","id":"sh/h47utcve","slide":2,"name":"table-text-5-2","text":"32","textPreview":"32","textChars":2,"textLines":1,"bbox":[830,504,58,25]}
+{"kind":"shape","id":"sh/w3yd07e9","slide":2,"name":"table-cell-5-3","bbox":[892,499,80,31]}
+{"kind":"textbox","id":"sh/m9wbadcr","slide":2,"name":"table-text-5-3","text":"315","textPreview":"315","textChars":3,"textLines":1,"bbox":[896,504,72,25]}
+{"kind":"shape","id":"sh/7a5s3itc","slide":2,"name":"table-cell-5-4","bbox":[972,499,80,31]}
+{"kind":"textbox","id":"sh/8betcnux","slide":2,"name":"table-text-5-4","text":"629","textPreview":"629","textChars":3,"textLines":1,"bbox":[976,504,72,25]}
+{"kind":"shape","id":"sh/9cna5sbi","slide":2,"name":"table-cell-5-5","bbox":[1052,499,80,31]}
+{"kind":"textbox","id":"sh/udgbedc3","slide":2,"name":"table-text-5-5","text":"943","textPreview":"943","textChars":3,"textLines":1,"bbox":[1056,504,72,25]}
+{"kind":"shape","id":"sh/veps7ito","slide":2,"name":"table-cell-5-6","bbox":[1132,499,80,31]}
+{"kind":"textbox","id":"sh/wzytgnut","slide":2,"name":"table-text-5-6","text":"1257","textPreview":"1257","textChars":4,"textLines":1,"bbox":[1136,504,72,25]}
+{"kind":"textbox","id":"sh/h07a9sbe","slide":2,"name":"table-caption","text":"表：单个 RZ gate 的分解门数和 T gate 数量。","textPreview":"表：单个 RZ gate 的分解门数和 T gate 数量。","textChars":30,"textLines":1,"bbox":[632,536,575,24]}
+{"kind":"image","id":"im/032lsz2h","slide":2,"name":"","alt":"Figure 7: decomposed gate counts for RZ angles under approximation errors","bbox":[86,330,520,206]}
+{"kind":"notes","id":"nt/lzjfic","slide":2,"text":""}
+{"kind":"slide","id":"sl/34m9e2","slide":3,"title":"⑦ 不同 QEC code 是否共享同一组 FT gateset？","textShapes":9}
+{"kind":"textbox","id":"sh/ovu1sbu5","slide":3,"name":"title","text":"⑦ 不同 QEC code 是否共享同一组 FT gateset？","textPreview":"⑦ 不同 QEC code 是否共享同一组 FT gateset？","textChars":33,"textLines":1,"bbox":[56,34,1168,46]}
+{"kind":"shape","id":"sh/nu10j6tk","slide":3,"name":"divider-88","bbox":[56,88,1168,1.2]}
+{"kind":"textbox","id":"sh/mtsjq1cf","slide":3,"name":"transition","text":"上一页说明：任意线路分解太贵，所以更现实的方向是直接使用 code 支持的 FT gates。接下来要问，这组可用 gates 能不能跨 QEC code 复用。","textPreview":"上一页说明：任意线路分解太贵，所以更现实的方向是直接使用 code 支持的 FT gates。接下来要问，这组可用 gates 能不能跨 QEC code 复用。","textChars":81,"textLines":1,"bbox":[72,108,1095,48]}
+{"kind":"textbox","id":"sh/x03ipgb2","slide":3,"name":"rq-label","text":"产生的 Research Question","textPreview":"产生的 Research Question","textChars":21,"textLines":1,"bbox":[72,168,260,26]}
+{"kind":"textbox","id":"sh/wzu1wbuh","slide":3,"name":"rq","text":"RQ6：不同 QEC codes 是否共享相同的 transversal FT gateset？","textPreview":"RQ6：不同 QEC codes 是否共享相同的 transversal FT gateset？","textChars":48,"textLines":1,"bbox":[72,195,1090,34]}
+{"kind":"textbox","id":"sh/byl0nqtw","slide":3,"name":"experiment-label","text":"实验设计","textPreview":"实验设计","textChars":4,"textLines":1,"bbox":[72,244,160,25]}
+{"kind":"textbox","id":"sh/axcjulcb","slide":3,"name":"experiment","text":"在 [[7,1,3]] 和 [[5,1,3]] 两个 code 上使用统一搜索空间，逐个训练候选 logical gate；再在 1PE 环境下测试 AFE，并用 10^-9 作为可行阈值。","textPreview":"在 [[7,1,3]] 和 [[5,1,3]] 两个 code 上使用统一搜索空间，逐个训练候选 logical gate；再在 1PE 环境下测试 AFE，并用 10^-9 作为可行阈值。","textChars":95,"textLines":1,"bbox":[72,271,1090,44]}
+{"kind":"shape","id":"sh/lonit0by","slide":3,"name":"divider-610","bbox":[56,610,1168,1.2]}
+{"kind":"textbox","id":"sh/kne10vad","slide":3,"name":"analysis-label","text":"结果分析","textPreview":"结果分析","textChars":4,"textLines":1,"bbox":[72,624,130,25]}
+{"kind":"textbox","id":"sh/i1snm5wr","slide":3,"name":"analysis","text":"[[7,1,3]] 支持 {H, S, HS, SH, HS†}，而 [[5,1,3]] 只支持 {HS, SH, HS†}。结论：FT gateset 与 QEC code 强相关，通用应用线路不能直接跨 code 迁移。","textPreview":"[[7,1,3]] 支持 {H, S, HS, SH, HS†}，而 [[5,1,3]] 只支持 {HS, SH, HS†}。结论：FT gateset 与 QEC code 强相关，通用应用线路不能直接跨 code 迁移。","textChars":112,"textLines":1,"bbox":[206,622,958,60]}
+{"kind":"textbox","id":"sh/43a5ofex","slide":3,"name":"figure-caption","text":"图：不同候选 logical gates 在 [[7,1,3]] 与 [[5,1,3]] code 下的 1PE 推理 AFE。","textPreview":"图：不同候选 logical gates 在 [[7,1,3]] 与 [[5,1,3]] code 下的 1PE 推理 AFE。","textChars":64,"textLines":1,"bbox":[160,575,960,24]}
+{"kind":"image","id":"im/4zyp0zqd","slide":3,"name":"","alt":"Figure 8: FT gateset feasibility for two QEC codes under 1PE inference","bbox":[200,326,880,246]}
+{"kind":"notes","id":"nt/34m9e2","slide":3,"text":""}

@@ -1,0 +1,17 @@
+{"kind":"deck","id":"pr/bnkd23","name":"Deck"}
+{"kind":"layout","layoutId":"c4d842e3-b094-44d2-b81e-5779acc63e3f","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"c152dd59-8279-49ad-a7c4-3a2f04af483b","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/tamjkc","slide":1,"title":"③ 把噪声放进训练，能不能消除 virtual error？","textShapes":9}
+{"kind":"textbox","id":"sh/ojadc3yx","slide":1,"name":"title","text":"③ 把噪声放进训练，能不能消除 virtual error？","textPreview":"③ 把噪声放进训练，能不能消除 virtual error？","textChars":30,"textLines":1,"bbox":[56,34,1168,46]}
+{"kind":"shape","id":"sh/ni1cjyhc","slide":1,"name":"divider-88","bbox":[56,88,1168,1.2]}
+{"kind":"textbox","id":"sh/2hsbatgr","slide":1,"name":"transition","text":"上一页说明：无噪声训练的 FT gate 自带 virtual error，遇到 physical error 后就超过纠错能力。因此自然想到：训练时就加入噪声，让 FT gate 学会适应噪声。","textPreview":"上一页说明：无噪声训练的 FT gate 自带 virtual error，遇到 physical error 后就超过纠错能力。因此自然想到：训练时就加入噪声，让 FT gate 学会适应噪声。","textChars":98,"textLines":1,"bbox":[72,108,1095,48]}
+{"kind":"textbox","id":"sh/1gzuhoz6","slide":1,"name":"rq-label","text":"产生的 Research Question","textPreview":"产生的 Research Question","textChars":21,"textLines":1,"bbox":[72,168,260,26]}
+{"kind":"textbox","id":"sh/0fqt8jy1","slide":1,"name":"rq","text":"RQ3：noise-aware training 能否增强 FT gate 对特定噪声条件的鲁棒性？","textPreview":"RQ3：noise-aware training 能否增强 FT gate 对特定噪声条件的鲁棒性？","textChars":50,"textLines":1,"bbox":[72,195,1090,34]}
+{"kind":"textbox","id":"sh/fehcfehg","slide":1,"name":"experiment-label","text":"实验设计","textPreview":"实验设计","textChars":4,"textLines":1,"bbox":[72,244,160,25]}
+{"kind":"textbox","id":"sh/ed8b69gv","slide":1,"name":"experiment","text":"用 ibm_quebec 的不同噪声水平训练 Steane code 的 FT H gate；再分别在无噪声环境和对应噪声环境中测试 AFE，并统计推理阶段的 Pauli error 数量。","textPreview":"用 ibm_quebec 的不同噪声水平训练 Steane code 的 FT H gate；再分别在无噪声环境和对应噪声环境中测试 AFE，并统计推理阶段的 Pauli error 数量。","textChars":95,"textLines":1,"bbox":[72,271,1090,44]}
+{"kind":"textbox","id":"sh/srqt4jyp","slide":1,"name":"figure-caption","text":"图：左侧统计推理中的 Pauli error 数量；右侧比较无噪声评估和对应噪声评估下的 AFE。","textPreview":"图：左侧统计推理中的 Pauli error 数量；右侧比较无噪声评估和对应噪声评估下的 AFE。","textChars":49,"textLines":1,"bbox":[160,575,960,24]}
+{"kind":"shape","id":"sh/6pwfux0r","slide":1,"name":"divider-610","bbox":[56,610,1168,1.2]}
+{"kind":"textbox","id":"sh/rq5g321c","slide":1,"name":"analysis-label","text":"结果分析","textPreview":"结果分析","textChars":4,"textLines":1,"bbox":[72,624,130,25]}
+{"kind":"textbox","id":"sh/srexw7ix","slide":1,"name":"analysis","text":"低噪声训练时，virtual error 仍然存在，噪声测试下 AFE 明显变差；较高噪声水平 16-17 下，FT gate 同时适应理想环境和单错误环境。结论：noise-aware training 有希望，但强依赖合适噪声水平。","textPreview":"低噪声训练时，virtual error 仍然存在，噪声测试下 AFE 明显变差；较高噪声水平 16-17 下，FT gate 同时适应理想环境和单错误环境。结论：noise-aware training 有希望，但强依赖合适噪声水平。","textChars":118,"textLines":1,"bbox":[206,622,958,60]}
+{"kind":"image","id":"im/oby9wfil","slide":1,"name":"","alt":"Figure 5: inference performance of FT H gate trained with hardware-specific noisy method under different noise levels","bbox":[118,326,1044,246]}
+{"kind":"notes","id":"nt/tamjkc","slide":1,"text":""}

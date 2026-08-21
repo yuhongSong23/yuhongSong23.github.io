@@ -1,0 +1,16 @@
+{"kind":"deck","id":"pr/2fu6bn","name":"Deck"}
+{"kind":"layout","layoutId":"04b1444c-56e8-4fd1-a7b6-9bb0f931711b","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"8bd54b22-e6b3-4681-a5ad-9e50ec1b75d4","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/j977dk","slide":1,"title":"① 无噪声训练的 FT Gate 在真实噪声下是否仍然可靠？","textShapes":8}
+{"kind":"textbox","id":"sh/8vm9k3al","slide":1,"name":"title","text":"① 无噪声训练的 FT Gate 在真实噪声下是否仍然可靠？","textPreview":"① 无噪声训练的 FT Gate 在真实噪声下是否仍然可靠？","textChars":30,"textLines":1,"bbox":[56,34,1168,46]}
+{"kind":"shape","id":"sh/7at8rytg","slide":1,"name":"divider-88","bbox":[56,88,1168,1.2]}
+{"kind":"textbox","id":"sh/69kritsv","slide":1,"name":"rq-label","text":"产生的 Research Question","textPreview":"产生的 Research Question","textChars":21,"textLines":1,"bbox":[72,108,260,26]}
+{"kind":"textbox","id":"sh/l8bqpoba","slide":1,"name":"rq","text":"RQ1：在无噪声环境中训练出的 FT gates，放到有噪声环境中推理时会怎样？","textPreview":"RQ1：在无噪声环境中训练出的 FT gates，放到有噪声环境中推理时会怎样？","textChars":40,"textLines":1,"bbox":[72,135,1090,34]}
+{"kind":"textbox","id":"sh/k729gjap","slide":1,"name":"experiment-label","text":"实验设计","textPreview":"实验设计","textChars":4,"textLines":1,"bbox":[72,184,160,25]}
+{"kind":"textbox","id":"sh/j6t8net4","slide":1,"name":"experiment","text":"用 7-qubit Steane code 训练无噪声 FT H gate；随后在 ibm_quebec 的 20 个噪声水平上推理，并用 1000 个测试样本的 AFE 衡量门保真误差。","textPreview":"用 7-qubit Steane code 训练无噪声 FT H gate；随后在 ibm_quebec 的 20 个噪声水平上推理，并用 1000 个测试样本的 AFE 衡量门保真误差。","textChars":94,"textLines":1,"bbox":[72,211,1090,44]}
+{"kind":"textbox","id":"sh/x4bqloby","slide":1,"name":"figure-caption","text":"图：无噪声训练的 FT H gate 在 20 个噪声水平下的推理结果，纵轴为 Average Fidelity Error。","textPreview":"图：无噪声训练的 FT H gate 在 20 个噪声水平下的推理结果，纵轴为 Average Fidelity Error。","textChars":63,"textLines":1,"bbox":[202,575,876,24]}
+{"kind":"shape","id":"sh/w329cjut","slide":1,"name":"divider-610","bbox":[56,610,1168,1.2]}
+{"kind":"textbox","id":"sh/2p0b61kr","slide":1,"name":"analysis-label","text":"结果分析","textPreview":"结果分析","textChars":4,"textLines":1,"bbox":[72,624,130,25]}
+{"kind":"textbox","id":"sh/nqtszm1c","slide":1,"name":"analysis","text":"噪声越强，AFE 越高：从无噪声下约 10^-7，上升到 10^-5，最高到 10^-2。结论是，无噪声训练出的 FT gate 对实际噪声不鲁棒，不能直接支撑 FT quantum circuit。","textPreview":"噪声越强，AFE 越高：从无噪声下约 10^-7，上升到 10^-5，最高到 10^-2。结论是，无噪声训练出的 FT gate 对实际噪声不鲁棒，不能直接支撑 FT quantum circuit。","textChars":100,"textLines":1,"bbox":[206,622,958,54]}
+{"kind":"image","id":"im/zyd0fq90","slide":1,"name":"","alt":"Figure 3: inference results for noise-free trained FT H gate across 20 noise levels using Steane code","bbox":[198,272,884,300]}
+{"kind":"notes","id":"nt/j977dk","slide":1,"text":""}

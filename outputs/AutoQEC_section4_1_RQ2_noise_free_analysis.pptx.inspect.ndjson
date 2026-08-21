@@ -1,0 +1,17 @@
+{"kind":"deck","id":"pr/xpbalg","name":"Deck"}
+{"kind":"layout","layoutId":"d1e25dcb-077c-4a6a-8530-0e7c6855fa84","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"a6ba221a-13c2-4977-a603-668800aa7f2c","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/xz12rm","slide":1,"title":"② 为什么无噪声训练的 FT Gate 连 1 个物理错误都难以容忍？","textShapes":9}
+{"kind":"textbox","id":"sh/ex87ix0z","slide":1,"name":"title","text":"② 为什么无噪声训练的 FT Gate 连 1 个物理错误都难以容忍？","textPreview":"② 为什么无噪声训练的 FT Gate 连 1 个物理错误都难以容忍？","textChars":35,"textLines":1,"bbox":[56,34,1168,46]}
+{"kind":"shape","id":"sh/10zqtczq","slide":1,"name":"divider-88","bbox":[56,88,1168,1.2]}
+{"kind":"textbox","id":"sh/0zqpk7i5","slide":1,"name":"transition","text":"上一页发现：无噪声训练出的 FT H gate 在真实噪声下 AFE 明显升高。接下来要解释，这个低保真到底是不是因为推理时错误太多。","textPreview":"上一页发现：无噪声训练出的 FT H gate 在真实噪声下 AFE 明显升高。接下来要解释，这个低保真到底是不是因为推理时错误太多。","textChars":67,"textLines":1,"bbox":[72,108,1095,42]}
+{"kind":"textbox","id":"sh/n2h8vmhw","slide":1,"name":"rq-label","text":"产生的 Research Question","textPreview":"产生的 Research Question","textChars":21,"textLines":1,"bbox":[72,162,260,26]}
+{"kind":"textbox","id":"sh/m187mh0b","slide":1,"name":"rq","text":"RQ2：无噪声训练得到的 FT gate，为什么在有噪声环境中无法可靠执行？","textPreview":"RQ2：无噪声训练得到的 FT gate，为什么在有噪声环境中无法可靠执行？","textChars":38,"textLines":1,"bbox":[72,189,1090,34]}
+{"kind":"textbox","id":"sh/94jqxczm","slide":1,"name":"experiment-label","text":"实验设计","textPreview":"实验设计","textChars":4,"textLines":1,"bbox":[72,238,160,25]}
+{"kind":"textbox","id":"sh/o3q9ori1","slide":1,"name":"experiment","text":"选取 noise level 1 和 19，统计 1000 次推理中出现的 Pauli error 数量；再按错误数量分别计算 AFE，并用电路状态演化分析 virtual error。","textPreview":"选取 noise level 1 和 19，统计 1000 次推理中出现的 Pauli error 数量；再按错误数量分别计算 AFE，并用电路状态演化分析 virtual error。","textChars":93,"textLines":1,"bbox":[72,265,1090,44]}
+{"kind":"textbox","id":"sh/25o7ad0r","slide":1,"name":"figure-caption","text":"图：左侧统计不同物理错误数量下的 AFE；右侧说明无噪声训练的 FT gate 自身会引入 virtual error。","textPreview":"图：左侧统计不同物理错误数量下的 AFE；右侧说明无噪声训练的 FT gate 自身会引入 virtual error。","textChars":60,"textLines":1,"bbox":[160,575,960,24]}
+{"kind":"shape","id":"sh/snu94bmd","slide":1,"name":"divider-610","bbox":[56,610,1168,1.2]}
+{"kind":"textbox","id":"sh/to3qdg3y","slide":1,"name":"analysis-label","text":"结果分析","textPreview":"结果分析","textChars":4,"textLines":1,"bbox":[72,624,130,25]}
+{"kind":"textbox","id":"sh/6lcr2147","slide":1,"name":"analysis","text":"关键不是“错误太多”，而是 FT gate 先自带 virtual error；再叠加 1 个 physical error 后，总错误超过 Steane code 的纠错能力。因此无噪声训练的 FT gate 本身不够准确。","textPreview":"关键不是“错误太多”，而是 FT gate 先自带 virtual error；再叠加 1 个 physical error 后，总错误超过 Steane code 的纠错能力。因此无噪声训练的 FT gate 本身不够准确。","textChars":113,"textLines":1,"bbox":[206,622,958,54]}
+{"kind":"image","id":"im/2l8nahwf","slide":1,"name":"","alt":"Figure 4: Pauli error statistics and virtual error mechanism for noise-free trained FT gate","bbox":[126,326,1028,246]}
+{"kind":"notes","id":"nt/xz12rm","slide":1,"text":""}
