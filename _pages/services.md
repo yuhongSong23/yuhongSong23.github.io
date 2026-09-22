@@ -31,6 +31,9 @@ permalink: /services/
       <li>
         Executive committee member of CCF Computer Architecture Committee (CCF TCARCH)
       </li>
+      <li>
+        Executive committee member of CCF Embedded Systems Committee (CCF TCEBS)
+      </li>
     </ul>
     <h5>Technical Program Committee</h5>
     <ul>

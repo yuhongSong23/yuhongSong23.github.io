@@ -32,9 +32,10 @@ permalink: /news/
 [comment]: <> (paper, service, award, talk, contribution)
 <section id="news-list">
   <h2>📢 News</h2>
+  <li>[2026/09/20] 🙌 Elected as an executive committee member of <a href="https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCEBS/2020-01-07/685332.shtml">CCF Embedded Systems Committee (CCF TCEBS)</a>.</li>
   <li>[2026/08/09] 🎤 Talk at Advanced System Symposium, Shanghai.</li>
   <li>[2026/07/16] 📝 Paper PIDA is accepted by CODES 2026. Congratulations to Yipei!</li>
-  <li>[2026/04/19] 📝 One survey paper is accepted by IEEE Communications Surveys & Tutorials. Congratulations to Xun Tang!</li>
+  <li>[2026/04/19] 📝 One <a href="https://ieeexplore.ieee.org/document/11501921"> survey paper</a> is accepted by IEEE Communications Surveys & Tutorials. Congratulations to Xun Tang!</li>
   <li>[2026/02/24] 📝 Paper TernaInfer is accepted by DAC 2026. Congratulations to Jie Gu!</li>
   <li>[2026/02/15] 🙌 Invited as TPC member at ICCAD 2026.</li>
   <li>[2026/01/07] 📝 Paper <a href="https://ieeexplore.ieee.org/abstract/document/11344752">QuanTrans</a> is accepted by TPDS journal. Congratulations to Longshan!</li>
@@ -44,7 +45,7 @@ permalink: /news/
   <li>[2025/10/10] 📝 Paper <a href="https://link.springer.com/article/10.1007/s42484-025-00319-8">QuSplit</a> is accepted by Quantum Machine Intelligence journal. Congratulations to Jinyang!</li>
   <li>[2025/09/21] 🙌 Elected as an executive committee member of <a href="https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCARCH/">CCF Computer Architecture Committee (CCF TCARCH)</a>.</li>
   <li>[2025/09/10] Join Pengcheng National Laboratory as a Assistant Researcher.</li>
-  <li>[2025/07/17] 📝 Paper <a href="">QuBound</a> is accepted by TCAD journal. Congratulations to Jinyang!</li>
+  <li>[2025/07/17] 📝 Paper <a href="https://ieeexplore.ieee.org/document/11096058">QuBound</a> is accepted by TCAD journal. Congratulations to Jinyang!</li>
   <li>[2025/06/30] 🎤 Poster presentation at GLSVLSI 2025, New Orleans.</li>
   <li>[2025/06/25] 📝 <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/qute.202500223?casa_token=z5DdPFYAB7sAAAAA%3A7bxp8vzUPmAKT8RCk5BkijierbK8I3M-Nu1Rd-Q3Z6pc1Kl2ga2DS3I_Z8wzoZqZMXV5_Eo_o5R19Q">One paper</a> is accepted by Advanced Quantum Technologies journal. Congratulations to Longshan!</li>
   <li>[2025/06/10] 🙌 Invited as TPC member at ISPA 2025.</li>

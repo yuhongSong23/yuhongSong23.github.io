@@ -31,7 +31,7 @@ permalink: /publications/
             Jie Gu, Edwin Hsing-Mean Sha, Longshan Xu, <strong>Yuhong Song</strong>, Yunfan Chi, Qingfeng Zhuge. ''TernaInfer: Pushing the Compression Boundary of Ternary LLMs towards 1.58-Bit GPU Inference.'' <em>In 2026 ACM/IEEE Design Automation Conference (DAC)</em>, pp. xxx. ACM/IEEE, 2026. <strong>(CCF-A)</strong>
         </li>
         <li>
-            Xun Tang, Qing Li, Junkun Peng, Yuanzheng Tan, Zhenhui Yuan, <strong>Yuhong Song</strong>, Gabriel-Miro Muntean, Yong Jiang. ''Low-latency Video Streaming: Applications, Challenges and Trends.'' <em>IEEE Communications Surveys & Tutorials</em>, 2026, xxx: xxx. <strong>(SCI JCR Q1, IF: 46.7)</strong>
+            Xun Tang, Qing Li, Junkun Peng, Yuanzheng Tan, Zhenhui Yuan, <strong>Yuhong Song</strong>, Gabriel-Miro Muntean, Yong Jiang. <a href="https://ieeexplore.ieee.org/document/11501921">''Low-latency Video Streaming: Applications, Challenges and Trends.''</a> <em>IEEE Communications Surveys & Tutorials</em>, 2026, 28(xx): 6384-6414. <strong>(SCI JCR Q1, IF: 46.7)</strong>
         </li>
         <li>
             Longshan Xu, Edwin Hsing-Mean Sha, <strong>Yuhong Song</strong>, Yunfan Chi, Qingfeng Zhuge. <a href="https://ieeexplore.ieee.org/abstract/document/11344752">''Minimizing Communications of Quantum Circuit Simulations on Distributed Systems.''</a> <em>IEEE Transactions on Parallel and Distributed Systems</em>, 2026, 37(4): 775-786. <strong>(CCF-A)</strong>
